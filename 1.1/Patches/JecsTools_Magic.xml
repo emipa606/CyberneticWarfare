@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <!-- Using the magical wonders of JecsTools -->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>JecsTools</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <!-- Damage -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs</xpath>
+          <value>
+            <JecsTools.DamageDefCleave>
+              <defName>CW_Cleave</defName>
+              <label>slash</label>
+              <workerClass>JecsTools.DamageWorker_Cleave</workerClass>
+              <externalViolence>true</externalViolence>
+              <deathMessage>{0} has been slashed to death.</deathMessage>
+              <hediff>Scratch</hediff>
+              <hediffSolid>Crack</hediffSolid>
+              <harmAllLayersUntilOutside>true</harmAllLayersUntilOutside>
+              <impactSoundType>Slice</impactSoundType>
+              <armorCategory>Sharp</armorCategory>
+              <cleaveFactor>0.8</cleaveFactor>
+              <cleaveDamage>Scratch</cleaveDamage>
+            </JecsTools.DamageDefCleave>
+          </value>
+        </li>
+        <!-- Capacity -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs</xpath>
+          <value>
+            <ToolCapacityDef>
+              <defName>CW_Cleave</defName>
+            </ToolCapacityDef>
+          </value>
+        </li>
+        <!-- Maneuver -->
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs</xpath>
+          <value>
+            <ManeuverDef>
+              <defName>CleaveMultipleTargets</defName>
+              <requiredCapacity>CW_Cleave</requiredCapacity>
+              <verb>
+                <verbClass>Verb_MeleeAttackDamage</verbClass>
+                <meleeDamageDef>CW_Cleave</meleeDamageDef>
+              </verb>
+              <logEntryDef>MeleeAttack</logEntryDef>
+              <combatLogRulesHit>Maneuver_Smash_MeleeHit</combatLogRulesHit>
+              <combatLogRulesDeflect>Maneuver_Smash_MeleeDeflect</combatLogRulesDeflect>
+              <combatLogRulesMiss>Maneuver_Smash_MeleeMiss</combatLogRulesMiss>
+              <combatLogRulesDodge>Maneuver_Smash_MeleeDodge</combatLogRulesDodge>
+            </ManeuverDef>
+          </value>
+        </li>
+        <!-- Cleave -->
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="CW_EnergyClaw"]/tools/li[label="claw"]/capacities/li[text()="Cut"]</xpath>
+          <value>
+            <li>CW_Cleave</li>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="CW_EnergyClaw"]/tools/li[label="blade"]/capacities/li[text()="Scratch"]</xpath>
+          <value>
+            <li>CW_Cleave</li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

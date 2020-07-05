@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cyborg Ballistik -->
+
+  <CW_Ballistik.label>Ballistik</CW_Ballistik.label>
+  <CW_Ballistik.description>Unfold the power of superior weapon systems.</CW_Ballistik.description>
+
+
+  <!-- Shadowrunner Cyberpunks -->
+
+  <CW_CyberneticWarfare.label>Cybernetic Warfare</CW_CyberneticWarfare.label>
+  <CW_CyberneticWarfare.description>Achieve the full control over your weapon systems. Become the platform.</CW_CyberneticWarfare.description>
+
+
+  <!-- Universal Soldiers Space Marines -->
+
+  <CW_FrameworkWeaponry.label>Framework Weaponry</CW_FrameworkWeaponry.label>
+  <CW_FrameworkWeaponry.description>Provides access to a databank with an exclusive selection of weapons.</CW_FrameworkWeaponry.description>
+
+
+</LanguageData>

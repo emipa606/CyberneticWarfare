@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shocker -->
+
+  <ANN_Shocker.label>shocker</ANN_Shocker.label>
+  <ANN_Shocker.description>A combat-oriented hand implant consisting of a round shocker inside the palm and a titanium metalplate around the knuckles. The electric pulse activates by angling up four fingers and pulling back the thumb. Obtains its power by the body system.</ANN_Shocker.description>
+
+
+  <!-- Power Fist -->
+
+  <CW_PowerFist.label>power fist</CW_PowerFist.label>
+  <CW_PowerFist.description>A massive mechanized glove wired to the forearm for hydraulic power bursts and punches. It is vicious in combat, and its powerful mini-servos can crush a skull like a natural hand crushes an egg. This prototype extension was created in a hidden hightech laboratorium and fabricated by their very own underground facilities. Though it was developed in imperial times, their independent state was preserved until now.\n\nStrengthens the soldiers ability to open doors and to create those passages, where they need to be. Grants pushback and pummel mechanics.\n\n&lt;i&gt;Only in death does duty end. Even a man who has nothing can still offer his life. As the Emperor protects, so must we. Peace is not in my vocabulary.&lt;/i&gt;</CW_PowerFist.description>
+  <CW_PowerFist.tools.0.label>Pummel</CW_PowerFist.tools.0.label>
+  <CW_PowerFist.tools.1.label>Crush</CW_PowerFist.tools.1.label>
+  <CW_PowerFist.tools.2.label>Knockback</CW_PowerFist.tools.2.label>
+
+
+  <!-- Energy Claws -->
+
+  <CW_EnergyClaw.label>energy claw</CW_EnergyClaw.label>
+  <CW_EnergyClaw.description>A massive mechanized glove wired to the forearm with a retractable claw extension. The weapon system controls an enhanced servo motor for hydraulic power in close combat. Capable of hitting multiple targets and going through metal like butter.\n\nEnergy Claws were favored by they oldest of the Space Marine Clans. The bravest among them even broke into Tanks or climbed onto Mechs to destroy them from within.</CW_EnergyClaw.description>
+  <CW_EnergyClaw.tools.0.label>energy burst</CW_EnergyClaw.tools.0.label>
+  <CW_EnergyClaw.tools.1.label>blade</CW_EnergyClaw.tools.1.label>
+  <CW_EnergyClaw.tools.2.label>claw</CW_EnergyClaw.tools.2.label>
+  <CW_EnergyClaw.tools.3.label>sidestep stab</CW_EnergyClaw.tools.3.label>
+
+
+  <!-- Energy Sword -->
+
+  <CW_EnergySword.label>energy sword</CW_EnergySword.label>
+  <CW_EnergySword.description>A fluctuative power sword unloading while slashing and stabbing. The bundled energy can force the blade through the heaviest of platings. Made for the hands of Space Marines.</CW_EnergySword.description>
+  <CW_EnergySword.tools.0.label>handle</CW_EnergySword.tools.0.label>
+  <CW_EnergySword.tools.1.label>point</CW_EnergySword.tools.1.label>
+  <CW_EnergySword.tools.2.label>edge</CW_EnergySword.tools.2.label>
+
+
+  <!-- Chain Sword -->
+
+  <CW_ChainSword.label>chain sword</CW_ChainSword.label>
+  <CW_ChainSword.description>A fierce power sword with a compound servo-motor in the handle. Its edge is surrounded by a chain saw mechaism with diamond sharp teeth. This prototype was carried by space marines to destroy tanks in one to one combat. It deals great damage, but is hard to manipulate.</CW_ChainSword.description>
+  <CW_ChainSword.tools.0.label>handle</CW_ChainSword.tools.0.label>
+  <CW_ChainSword.tools.1.label>point</CW_ChainSword.tools.1.label>
+  <CW_ChainSword.tools.2.label>edge</CW_ChainSword.tools.2.label>
+
+
+  <!-- Gun Blade -->
+
+  <CW_Gunslinger.label>Pulse</CW_Gunslinger.label>
+  <CW_Pulse.label>Pulse</CW_Pulse.label>
+
+  <CW_GunBlade.label>gun blade</CW_GunBlade.label>
+  <CW_GunBlade.description>An ergonomic handgun with a comfortable blade extension. This attempt tries to counterattack the lack of close combat capacities of its weapon type, based on an old gun design by a well-known weaponsmith.</CW_GunBlade.description>
+  <CW_GunBlade.tools.0.label>handle</CW_GunBlade.tools.0.label>
+  <CW_GunBlade.tools.1.label>point</CW_GunBlade.tools.1.label>
+  <CW_GunBlade.tools.2.label>blade</CW_GunBlade.tools.2.label>
+  <CW_GunBlade.verbs.0.label>Gunslinger</CW_GunBlade.verbs.0.label>
+  <CW_GunBlade.verbs.1.label>Pulsefire</CW_GunBlade.verbs.1.label>
+
+
+</LanguageData>

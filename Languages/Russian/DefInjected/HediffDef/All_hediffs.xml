@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Electro -->
+  <Trunken_hediff_Shocker.label>Ð¨Ð¾ÐºÐµÑ€</Trunken_hediff_Shocker.label>
+  <Trunken_hediff_Shocker.comps.0.tools.0.label>ÐÐ¿Ð¿ÐµÑ€ÐºÐ¾Ñ‚</Trunken_hediff_Shocker.comps.0.tools.0.label>
+  <Trunken_hediff_Shocker.comps.0.tools.1.label>Ð¨Ð¾ÐºÐµÑ€</Trunken_hediff_Shocker.comps.0.tools.1.label>
+  <Trunken_hediff_Shocker.comps.0.tools.2.label>Ð£Ð´Ð°Ñ€</Trunken_hediff_Shocker.comps.0.tools.2.label>
+  <Trunken_hediff_Shocker.labelNoun>ÑˆÐ¾ÐºÐ¾Ð²Ñ‹Ð¹ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ</Trunken_hediff_Shocker.labelNoun>
+  <Trunken_hediff_KnockOut.label>Ð½Ð¾ÐºÐ°ÑƒÑ‚</Trunken_hediff_KnockOut.label>
+  <Trunken_hediff_KnockOut.stages.0.label>Ð½ÐµÐ·Ð½Ð°Ñ‡Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹</Trunken_hediff_KnockOut.stages.0.label>
+  <Trunken_hediff_KnockOut.stages.1.label>Ð¾ÑˆÐµÐ»Ð¾Ð¼Ð»ÑÑŽÑ‰Ð¸Ð¹</Trunken_hediff_KnockOut.stages.1.label>
+  <Trunken_hediff_KnockOut.stages.2.label>Ð¿Ð¾Ñ‚Ñ€ÑÑÑ‘Ð½Ð½Ñ‹Ð¹</Trunken_hediff_KnockOut.stages.2.label>
+  <Trunken_hediff_KnockOut.stages.3.label>Ð·Ð²Ñ‘Ð·Ð´Ð¾Ñ‡ÐºÐ¸</Trunken_hediff_KnockOut.stages.3.label>
+  <Trunken_hediff_KnockOut.stages.4.label>Ð±ÐµÑÑÐ¿Ð°Ð¼ÑÑ‚Ð½Ñ‹Ð¹</Trunken_hediff_KnockOut.stages.4.label>
+  <Trunken_hediff_KnockOut.labelNoun>Ð¿Ð¾Ñ‚ÐµÑ€Ñ ÑÐ¾Ð·Ð½Ð°Ð½Ð¸Ñ</Trunken_hediff_KnockOut.labelNoun>
+  <Trunken_hediff_Electrocuted.label>ÑƒÐ´Ð°Ñ€ Ñ‚Ð¾ÐºÐ¾Ð¼</Trunken_hediff_Electrocuted.label>
+  <Trunken_hediff_Electrocuted.labelNoun>ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ñ„Ð¸Ñ†Ð¸Ñ€Ð¾Ð²Ð°Ð½</Trunken_hediff_Electrocuted.labelNoun>
+  <!-- Energetic -->
+  <Trunken_hediff_PlasmaBurn.label>Ð¿Ð»Ð°Ð·Ð¼ÐµÐ½Ð½Ñ‹Ð¹ Ð¾Ð¶Ñ‘Ð³</Trunken_hediff_PlasmaBurn.label>
+  <Trunken_hediff_PlasmaBurn.comps.0.labelTendedWell>Ð¿ÐµÑ€ÐµÐ²ÑÐ·Ð°Ð½Ð½Ñ‹Ð¹</Trunken_hediff_PlasmaBurn.comps.0.labelTendedWell>
+  <Trunken_hediff_PlasmaBurn.comps.0.labelTendedWellInner>Ð·Ð°ÑˆÐ¸Ñ‚Ñ‹Ð¹</Trunken_hediff_PlasmaBurn.comps.0.labelTendedWellInner>
+  <Trunken_hediff_PlasmaBurn.comps.0.labelSolidTendedWell>ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ð¹</Trunken_hediff_PlasmaBurn.comps.0.labelSolidTendedWell>
+  <Trunken_hediff_PlasmaBurn.injuryProps.destroyedLabel>Ð¡Ð³Ð¾Ñ€ÐµÐ» Ð·Ð°Ð¶Ð¸Ð²Ð¾</Trunken_hediff_PlasmaBurn.injuryProps.destroyedLabel>
+  <Trunken_hediff_PlasmaBurn.injuryProps.destroyedOutLabel>Ð¡Ð³Ð¾Ñ€ÐµÐ» Ð·Ð°Ð¶Ð¸Ð²Ð¾</Trunken_hediff_PlasmaBurn.injuryProps.destroyedOutLabel>
+  <Trunken_hediff_PlasmaBurn.labelNoun>Ñ€Ð°Ð½Ð° Ð¾Ñ‚ Ð¿Ð»Ð°Ð·Ð¼Ñ‹</Trunken_hediff_PlasmaBurn.labelNoun>
+  <Trunken_hediff_LaserShot.label>Ð»Ð°Ð·ÐµÑ€Ð½Ñ‹Ð¹ Ð»ÑƒÑ‡</Trunken_hediff_LaserShot.label>
+  <Trunken_hediff_LaserShot.comps.0.labelTendedWell>Ð¿ÐµÑ€ÐµÐ²ÑÐ·Ð°Ð½Ð½Ñ‹Ð¹</Trunken_hediff_LaserShot.comps.0.labelTendedWell>
+  <Trunken_hediff_LaserShot.comps.0.labelTendedWellInner>Ð·Ð°ÑˆÐ¸Ñ‚Ñ‹Ð¹</Trunken_hediff_LaserShot.comps.0.labelTendedWellInner>
+  <Trunken_hediff_LaserShot.comps.0.labelSolidTendedWell>ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ð¹</Trunken_hediff_LaserShot.comps.0.labelSolidTendedWell>
+  <Trunken_hediff_LaserShot.injuryProps.destroyedLabel>Ð˜ÑÐ¿Ð°Ñ€Ñ‘Ð½Ð½Ñ‹Ð¹</Trunken_hediff_LaserShot.injuryProps.destroyedLabel>
+  <Trunken_hediff_LaserShot.injuryProps.destroyedOutLabel>Ð˜ÑÐ¿Ñ€Ð°Ñ‘Ð½Ð½Ñ‹Ð¹</Trunken_hediff_LaserShot.injuryProps.destroyedOutLabel>
+  <Trunken_hediff_LaserShot.labelNoun>Ñ€Ð°Ð½Ð° Ð¾Ñ‚ Ð»Ð°Ð·ÐµÑ€Ð°</Trunken_hediff_LaserShot.labelNoun>
+</LanguageData>

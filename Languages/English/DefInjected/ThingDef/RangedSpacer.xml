@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Disruptor -->
+
+  <Bullet_DisruptorOrb.label>electron orb</Bullet_DisruptorOrb.label>
+  <Bullet_UltraEMP.label>ultra EMP</Bullet_UltraEMP.label>
+  <Bullet_StunningForce.label>stunning force</Bullet_StunningForce.label>
+  <Bullet_NonLethalCharge.label>non lethal charge</Bullet_NonLethalCharge.label>
+
+  <CW_Disruptor.label>disruptor</CW_Disruptor.label>
+  <CW_Disruptor.description>A heavy handgun with an electron orb generator to disrupt single targets. The adjustable power system was originally made for non lethal strikes and knocks out any humanoid on a single hit. Standard overseer equipment on Jailplanets.\n\nThis upgraded version has access to four different fire modes.</CW_Disruptor.description>
+  <CW_Disruptor.tools.0.label>grip</CW_Disruptor.tools.0.label>
+  <CW_Disruptor.tools.1.label>barrel</CW_Disruptor.tools.1.label>
+  <CW_Disruptor.tools.2.label>Blade</CW_Disruptor.tools.2.label>
+  <CW_Disruptor.verbs.0.label>Electron Orb</CW_Disruptor.verbs.0.label>
+  <CW_Disruptor.verbs.1.label>Ultra EMP</CW_Disruptor.verbs.1.label>
+  <CW_Disruptor.verbs.2.label>Stunning Force</CW_Disruptor.verbs.2.label>
+  <CW_Disruptor.verbs.3.label>Non-Lethal Charge</CW_Disruptor.verbs.3.label>
+
+
+  <!-- Napalm Blaster -->
+
+  <Bullet_NapalmFlame.label>sea of flames</Bullet_NapalmFlame.label>
+  <Bullet_NapalmBlast.label>concentrated napalm</Bullet_NapalmBlast.label>
+  <Bullet_NapalmWave.label>concentrated napalm</Bullet_NapalmWave.label>
+
+  <CW_NapalmBlaster.label>napalm blaster</CW_NapalmBlaster.label>
+  <CW_NapalmBlaster.description>A heavy flamethrower with a napalm tank attached to it. This mechanical incendiary device was developed to project a long, controllable stream of liquid fire.\n\nThe heat level can be conveniently adjusted by a builtin pyromancy controller.</CW_NapalmBlaster.description>
+  <CW_NapalmBlaster.tools.0.label>stock</CW_NapalmBlaster.tools.0.label>
+  <CW_NapalmBlaster.tools.1.label>barrel</CW_NapalmBlaster.tools.1.label>
+  <CW_NapalmBlaster.verbs.0.label>Fahrenheit</CW_NapalmBlaster.verbs.0.label>
+  <CW_NapalmBlaster.verbs.1.label>Infernal</CW_NapalmBlaster.verbs.1.label>
+  <CW_NapalmBlaster.verbs.2.label>Hellfire</CW_NapalmBlaster.verbs.2.label>
+
+
+  <!-- Dual Eraser -->
+
+  <Bullet_DualEraser.label>twin bullet</Bullet_DualEraser.label>
+
+  <CW_DualEraser.label>dual eraser</CW_DualEraser.label>
+  <CW_DualEraser.description>A pair of rapid fire machine pistols in form of two compact twin erasers with huge magazines for dual wielding purposes. The immense firepower like its multi shot comes at the price of low precision. Found on high criminal Urbworlds, where narrow alleys are present. Can be mounted on cybernetics for faster reloads on close up targets.\n\nMade for Akimbo.</CW_DualEraser.description>
+  <CW_DualEraser.tools.0.label>grip</CW_DualEraser.tools.0.label>
+  <CW_DualEraser.tools.1.label>barrel</CW_DualEraser.tools.1.label>
+  <CW_DualEraser.verbs.0.label>Multi Shot</CW_DualEraser.verbs.0.label>
+  <CW_DualEraser.verbs.1.label>Rapid Fire</CW_DualEraser.verbs.1.label>
+
+
+  <!-- Accelerator -->
+
+  <Bullet_Accelerator.label>singularity</Bullet_Accelerator.label>
+
+  <CW_Accelerator.label>accelerator</CW_Accelerator.label>
+  <CW_Accelerator.description>A heavy cybernetic weapon system. The inner coils of this monstrum are switched on and off in a precisely timed sequence, causing the hybrid projectiles to be accelerated quickly along the barrel via magnetic forces. Swaps between ammunition on toggle.</CW_Accelerator.description>
+  <CW_Accelerator.tools.0.label>stock</CW_Accelerator.tools.0.label>
+  <CW_Accelerator.tools.1.label>barrel</CW_Accelerator.tools.1.label>
+  <CW_Accelerator.verbs.0.label>Singularity</CW_Accelerator.verbs.0.label>
+  <CW_Accelerator.verbs.1.label>Charged</CW_Accelerator.verbs.1.label>
+  <CW_Accelerator.verbs.2.label>Double Time</CW_Accelerator.verbs.2.label>
+
+
+</LanguageData>

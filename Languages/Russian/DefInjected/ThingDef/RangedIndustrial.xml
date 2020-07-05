@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Riot Breaker -->
+  <CW_RiotBreaker.label>Ð¿Ð¾Ð´Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ Ð±ÑƒÐ½Ñ‚Ð°</CW_RiotBreaker.label>
+  <CW_RiotBreaker.description>Ð­Ð½ÐµÑ€Ð³ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ°Ñ Ð²Ð¸Ð½Ñ‚Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´Ð¸Ñ„Ð¸Ñ†Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð°Ñ Ñ‚Ð°Ðº, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð±Ñ‹Ñ‚ÑŒ Ð¿Ð¾Ð»Ð½Ð¾ÑÑ‚ÑŒÑŽ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¼ Ð´Ñ€Ð¾Ð±Ð¾Ð²Ð¸ÐºÐ¾Ð¼ Ñ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð½Ñ‹Ð¼ Ð¿Ð¸Ñ‚Ð°Ð½Ð¸ÐµÐ¼ Ñ Ð°Ð¼Ð¾Ñ€Ñ‚Ð¸Ð·Ð°Ñ‚Ð¾Ñ€Ð¾Ð¼ Ð¾Ñ‚Ð´Ð°Ñ‡Ð¸. ÐžÐ³Ñ€Ð¾Ð¼Ð½Ñ‹Ð¹ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½ Ð¸ Ð½ÐµÐ¾Ð±Ñ‹Ñ‡Ð°Ð¹Ð½Ð°Ñ Ð¼Ð¾Ñ‰ÑŒ Ð½Ð° ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ¾Ð¹ Ð´Ð¸ÑÑ‚Ð°Ð½Ñ†Ð¸Ð¸ Ð¾Ð³Ð½Ñ. ÐŸÑ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÑÑ Ð´Ð»Ñ Ð¾Ð±ÐµÑÐ¿ÐµÑ‡ÐµÐ½Ð¸Ñ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ð¹ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾Ñ‚Ð¸ ÐŸÐ»Ð°Ð½ÐµÑ‚-Ñ‚ÑŽÑ€ÐµÐ¼ Ñ Ð¾Ñ‡ÐµÐ½ÑŒ Ð¾Ð¿Ð°ÑÐ½Ñ‹Ð¼Ð¸ ÑÑƒÐ±ÑŠÐµÐºÑ‚Ð°Ð¼Ð¸.</CW_RiotBreaker.description>
+  <CW_RiotBreaker.tools.0.label>Ð¿Ñ€Ð¸ÐºÐ»Ð°Ð´</CW_RiotBreaker.tools.0.label>
+  <CW_RiotBreaker.tools.1.label>ÑÑ‚Ð²Ð¾Ð»</CW_RiotBreaker.tools.1.label>
+  <!-- Ballistic Shredder -->
+  <Bullet_BallisticShredder.label>Ñ‚ÑÐ¶Ñ‘Ð»Ñ‹Ð¹ ÑˆÑ€ÐµÐ´Ð´ÐµÑ€</Bullet_BallisticShredder.label>
+  <CW_BallisticShredder.label>Ð±Ð°Ð»Ð»Ð¸ÑÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÑˆÑ€ÐµÐ´Ð´ÐµÑ€</CW_BallisticShredder.label>
+  <CW_BallisticShredder.description>ÐšÐ¾Ð¼Ð¿Ð°ÐºÑ‚Ð½Ñ‹Ð¹ Ð¿ÑƒÐ»ÐµÐ¼Ñ‘Ñ‚. Ð£ Ð½ÐµÐ³Ð¾ Ð¾Ñ‡ÐµÐ½ÑŒ ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ¸Ð¹ Ñ€Ð°Ð´Ð¸ÑƒÑ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ. ÐŸÐ¾ÑÑ‚Ð°Ð²Ð»ÑÐµÑ‚ÑÑ Ñ Ð±Ð¾Ð»ÑŒÑˆÐ¸Ð¼ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð¾Ð¼ Ð¸ Ð¾Ð±Ð»Ð°Ð´Ð°ÐµÑ‚ Ð¼Ð°Ð»Ð¾Ð¹ Ð¾Ñ‚Ð´Ð°Ñ‡ÐµÐ¹ Ð±Ð»Ð°Ð³Ð¾Ð´Ð°Ñ€Ñ Ð²ÑÑ‚Ñ€Ð¾ÐµÐ½Ð½Ð¾Ð¼Ñƒ ÑÑ‚Ð°Ð±Ð¸Ð»Ð¸Ð·Ð°Ñ‚Ð¾Ñ€Ñƒ.</CW_BallisticShredder.description>
+  <CW_BallisticShredder.tools.0.label>Ñ€ÑƒÐºÐ¾ÑÑ‚ÐºÐ°</CW_BallisticShredder.tools.0.label>
+  <CW_BallisticShredder.tools.1.label>ÑÑ‚Ð²Ð¾Ð»</CW_BallisticShredder.tools.1.label>
+  <!-- Ballistic Combat Gun -->
+  <Bullet_BallisticCombatGun.label>ÑˆÑ‚ÑƒÑ€Ð¼Ð¾Ð²Ð°Ñ Ð¿Ð°Ñ‚Ñ€Ð¾Ð½</Bullet_BallisticCombatGun.label>
+  <CW_BallisticCombatGun.label>Ð±Ð°Ð»Ð»Ð¸ÑÑ‚Ð¸Ñ‡ÐµÑÐºÐ°Ñ Ð±Ð¾ÐµÐ²Ð°Ñ Ð¿ÑƒÑˆÐºÐ°</CW_BallisticCombatGun.label>
+  <CW_BallisticCombatGun.description>Ð£Ð½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ð°Ñ Ð³Ð°Ð·Ð¾Ð²Ð°Ñ ÑˆÑ‚ÑƒÑ€Ð¼Ð¾Ð²Ð°Ñ Ð²Ð¸Ð½Ñ‚Ð¾Ð²ÐºÐ° Ð´Ð»Ñ Ð¿Ð¾Ð»ÐµÐ²Ð¾Ð³Ð¾ Ð¸Ð»Ð¸ Ð³Ð¾Ñ€Ð¾Ð´ÑÐºÐ¾Ð³Ð¾ Ð±Ð¾Ñ. ÐŸÑ€ÐµÐ´Ð½Ð°Ð·Ð½Ð°Ñ‡ÐµÐ½ Ð´Ð»Ñ Ð¿Ð°Ñ‚Ñ€Ð¾Ð½Ð¾Ð² Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð³Ð¾ ÐºÐ°Ð»Ð¸Ð±Ñ€Ð°. ÐœÐ¾Ñ‰Ð½ÐµÐµ, Ð±Ñ‹ÑÑ‚Ñ€ÐµÐµ, Ð¸ Ð³Ð»Ð°Ð²Ð½Ð¾Ðµ - Ñ‚Ð¾Ñ‡Ð½ÐµÐµ.</CW_BallisticCombatGun.description>
+  <CW_BallisticCombatGun.tools.0.label>Ð¿Ñ€Ð¸ÐºÐ»Ð°Ð´</CW_BallisticCombatGun.tools.0.label>
+  <CW_BallisticCombatGun.tools.1.label>ÑÑ‚Ð²Ð¾Ð»</CW_BallisticCombatGun.tools.1.label>
+  <!-- Ballistic Enforcer -->
+  <Bullet_BallisticEnforcer.label>ÑÐ¸Ð»Ð¾Ð²Ð¾Ð¹ Ð¿Ð°Ñ‚Ñ€Ð¾Ð½</Bullet_BallisticEnforcer.label>
+  <CW_BallisticEnforcer.label>Ð±Ð°Ð»Ð»Ð¸ÑÑ‚Ñ‡ÐµÑÐºÐ¸Ð¹ ÑÐ½Ñ„Ð¾Ñ€ÑÐµÑ€</CW_BallisticEnforcer.label>
+  <CW_BallisticEnforcer.description>Ð­Ð½ÐµÑ€Ð³ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ°Ñ ÑˆÑ‚ÑƒÑ€Ð¼Ð¾Ð²Ð°Ñ Ð²Ð¸Ð½Ñ‚Ð¾Ð²ÐºÐ° Ð´Ð»Ñ Ð¿Ð¾Ð»ÐµÐ²Ñ‹Ñ… Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¹. Ð’ ÑÑ‚Ñƒ Ð²ÐµÑ€ÑÐ¸ÑŽ Ð¸Ð½Ñ‚ÐµÐ³Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð° Ð²Ñ‹Ñ‡Ð¸ÑÐ»Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°, ÑƒÐ²ÐµÐ»Ð¸Ñ‡ÐµÐ²Ð°ÑŽÑ‰Ð°Ñ Ð¾Ð³Ð½ÐµÐ²ÑƒÑŽ Ð¼Ð¾Ñ‰ÑŒ Ð¸ Ñ‚Ð¾Ñ‡Ð½Ð¾ÑÑ‚ÑŒ Ð²Ð¸Ð½Ñ‚Ð¾Ð²ÐºÐ¸. ÐŸÑ€Ð¾Ð½Ð¸Ð·Ð°Ð½Ð½Ñ‹Ðµ ÑÐ½ÐµÑ€Ð³Ð¸ÐµÐ¹ ÑÐ½Ð°Ñ€ÑÐ´Ñ‹ Ð·Ð°Ð¿ÑƒÑÐºÐ°ÑŽÑ‚ÑÑ Ð½ÐµÐ±Ð¾Ð»ÑŒÑˆÐ¸Ð¼Ð¸ Ð¾Ñ‡ÐµÑ€ÐµÐ´ÑÐ¼Ð¸, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ñ€ÐµÐ´Ð¾Ñ‚Ð²Ñ€Ð°Ñ‚Ð¸Ñ‚ÑŒ Ð¿ÐµÑ€ÐµÐ³Ñ€ÐµÐ².</CW_BallisticEnforcer.description>
+  <CW_BallisticEnforcer.tools.0.label>Ð¿Ñ€Ð¸ÐºÐ»Ð°Ð´</CW_BallisticEnforcer.tools.0.label>
+  <CW_BallisticEnforcer.tools.1.label>ÑÑ‚Ð²Ð¾Ð»</CW_BallisticEnforcer.tools.1.label>
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Riot Breaker -->
+
+  <CW_RiotBreaker.label>riot breaker</CW_RiotBreaker.label>
+  <CW_RiotBreaker.description>A charge rifle modified to be a magazine-fed fully automatic shotgun with recoil absorber. Packs a huge magazine and is extraordinarily powerful due to burst fire on short distance. Produced for maximum security Jailplanets with very dangerous subjects.</CW_RiotBreaker.description>
+  <CW_RiotBreaker.tools.0.label>stock</CW_RiotBreaker.tools.0.label>
+  <CW_RiotBreaker.tools.1.label>barrel</CW_RiotBreaker.tools.1.label>
+
+
+  <!-- Ballistic Shredder -->
+
+  <Bullet_BallisticShredder.label>heavy shredder</Bullet_BallisticShredder.label>
+
+  <CW_BallisticShredder.label>ballistic shredder</CW_BallisticShredder.label>
+  <CW_BallisticShredder.description>A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. Comes with a larger magazine and lesser outbreaks due to an implemented stabilizer.</CW_BallisticShredder.description>
+  <CW_BallisticShredder.tools.0.label>grip</CW_BallisticShredder.tools.0.label>
+  <CW_BallisticShredder.tools.1.label>barrel</CW_BallisticShredder.tools.1.label>
+
+
+  <!-- Ballistic Combat Gun -->
+
+  <Bullet_BallisticCombatGun.label>assault bullet</Bullet_BallisticCombatGun.label>
+
+  <CW_BallisticCombatGun.label>ballistic combat gun</CW_BallisticCombatGun.label>
+  <CW_BallisticCombatGun.description>A general-purpose gas-operated assault rifle for field or urban combat. Designed for large calibre cartridges. The case covers a complex burst engine inside. More power, faster handling, better accuracy.</CW_BallisticCombatGun.description>
+  <CW_BallisticCombatGun.tools.0.label>stock</CW_BallisticCombatGun.tools.0.label>
+  <CW_BallisticCombatGun.tools.1.label>barrel</CW_BallisticCombatGun.tools.1.label>
+
+
+  <!-- Ballistic Enforcer -->
+
+  <Bullet_BallisticEnforcer.label>enforcer bullet</Bullet_BallisticEnforcer.label>
+
+  <CW_BallisticEnforcer.label>ballistic enforcer</CW_BallisticEnforcer.label>
+  <CW_BallisticEnforcer.description>An energy assisted assault rifle for field operations. This version is integrated with a computing system to increase its firepower and accuracy. The infused projectiles are fired in small bursts to prevent overheating. Usually fabricated by machines and hard to assemble for a human being.</CW_BallisticEnforcer.description>
+  <CW_BallisticEnforcer.tools.0.label>stock</CW_BallisticEnforcer.tools.0.label>
+  <CW_BallisticEnforcer.tools.1.label>barrel</CW_BallisticEnforcer.tools.1.label>
+
+
+</LanguageData>
