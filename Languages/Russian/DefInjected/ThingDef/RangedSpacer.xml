@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- Disruptor -->
-  <Bullet_DisruptorOrb.label>ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð°Ñ ÑÑ„ÐµÑ€Ð°</Bullet_DisruptorOrb.label>
-  <Bullet_UltraEMP.label>ÑƒÐ»ÑŒÑ‚Ñ€Ð° Ð­ÐœÐ˜</Bullet_UltraEMP.label>
-  <Bullet_StunningForce.label>Ð¾Ð³Ð»ÑƒÑˆÐ°ÑŽÑ‰Ð°Ñ Ð¡Ð¸Ð»Ð°</Bullet_StunningForce.label>
-  <Bullet_NonLethalCharge.label>Ð½Ðµ ÑÐ¼ÐµÑ€Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð·Ð°Ñ€ÑÐ´</Bullet_NonLethalCharge.label>
-  <CW_Disruptor.label>Ð Ð°Ð·Ñ€ÑƒÑˆÐ¸Ñ‚ÐµÐ»ÑŒ</CW_Disruptor.label>
-  <CW_Disruptor.description>Ð¢ÑÐ¶ÐµÐ»Ñ‹Ð¹ Ð¿Ð¸ÑÑ‚Ð¾Ð»ÐµÑ‚ Ñ Ð³ÐµÐ½ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð¼ ÑÐ¾Ð·Ð´Ð°ÑŽÑ‰Ð¸Ð¼ ÑÐ»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ñ‹Ðµ ÑÑ„ÐµÑ€Ñ‹, Ñ€Ð°Ð·Ñ€ÑƒÑˆÐ°ÑŽÑ‰Ð¸Ðµ Ð¾Ð´Ð¸Ð½Ð¾Ñ‡Ð½Ñ‹Ðµ Ñ†ÐµÐ»Ð¸. Ð ÐµÐ³ÑƒÐ»Ð¸Ñ€ÑƒÐµÐ¼Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð° Ð¿Ð¸Ñ‚Ð°Ð½Ð¸Ñ Ð¸Ð·Ð½Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¾ Ð±Ñ‹Ð»Ð° Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½Ð° Ð´Ð»Ñ Ð½ÐµÐ»ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð¸ Ð¾Ð³Ð»ÑƒÑˆÐµÐ½Ð¸Ñ Ð»ÑŽÐ±Ð¾Ð³Ð¾ Ð³ÑƒÐ¼Ð°Ð½Ð¾Ð¸Ð´Ð° Ð¾Ð´Ð½Ð¸Ð¼ Ð²Ñ‹ÑÑ‚Ñ€ÐµÐ»Ð¾Ð¼. Ð¡Ñ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ð¾Ðµ Ð½Ð°Ð´Ð·Ð¾Ñ€Ð½Ð¾Ðµ Ð¾Ð±Ð¾Ñ€ÑƒÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð½Ð° ÐŸÐ»Ð°Ð½ÐµÑ‚Ð°Ñ…-Ñ‚ÑŽÑ€ÑŒÐ¼Ð°Ñ….\n\nÐ­Ñ‚Ð° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ð°Ñ Ð²ÐµÑ€ÑÐ¸Ñ Ð¸Ð¼ÐµÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ñ‡ÐµÑ‚Ñ‹Ñ€ÐµÐ¼ Ñ€Ð°Ð·Ð»Ð¸Ñ‡Ð½Ñ‹Ð¼ Ñ€ÐµÐ¶Ð¸Ð¼Ð°Ð¼ Ð¾Ð³Ð½Ñ.</CW_Disruptor.description>
-  <CW_Disruptor.tools.0.label>Ñ€ÑƒÐºÐ¾ÑÑ‚ÐºÐ°</CW_Disruptor.tools.0.label>
-  <CW_Disruptor.tools.1.label>ÑÑ‚Ð²Ð¾Ð»</CW_Disruptor.tools.1.label>
-  <CW_Disruptor.verbs.0.label>Ð­Ð»ÐµÐºÑ‚Ñ€Ð¾Ð½Ð½Ð°Ñ Ð¡Ñ„ÐµÑ€Ð°</CW_Disruptor.verbs.0.label>
-  <CW_Disruptor.verbs.1.label>Ð£Ð»ÑŒÑ‚Ñ€Ð° Ð­ÐœÐ˜</CW_Disruptor.verbs.1.label>
-  <CW_Disruptor.verbs.2.label>ÐžÐ³Ð»ÑƒÑˆÐ°ÑŽÑ‰Ð°Ñ Ð¡Ð¸Ð»Ð°</CW_Disruptor.verbs.2.label>
-  <CW_Disruptor.verbs.3.label>ÐÐµ ÑÐ¼ÐµÑ€Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð·Ð°Ñ€ÑÐ´</CW_Disruptor.verbs.3.label>
+  <Bullet_DisruptorOrb.label>электронная сфера</Bullet_DisruptorOrb.label>
+  <Bullet_UltraEMP.label>ультра ЭМИ</Bullet_UltraEMP.label>
+  <Bullet_StunningForce.label>оглушающая Сила</Bullet_StunningForce.label>
+  <Bullet_NonLethalCharge.label>не смертельный заряд</Bullet_NonLethalCharge.label>
+  <CW_Disruptor.label>Разрушитель</CW_Disruptor.label>
+  <CW_Disruptor.description>Тяжелый пистолет с генератором создающим электронные сферы, разрушающие одиночные цели. Регулируемая система питания изначально была разработана для нелетального действия и оглушения любого гуманоида одним выстрелом. Стандартное надзорное оборудование на Планетах-тюрьмах.\n\nЭта обновленная версия имеет доступ к четырем различным режимам огня.</CW_Disruptor.description>
+  <CW_Disruptor.tools.0.label>рукоятка</CW_Disruptor.tools.0.label>
+  <CW_Disruptor.tools.1.label>ствол</CW_Disruptor.tools.1.label>
+  <CW_Disruptor.verbs.0.label>Электронная Сфера</CW_Disruptor.verbs.0.label>
+  <CW_Disruptor.verbs.1.label>Ультра ЭМИ</CW_Disruptor.verbs.1.label>
+  <CW_Disruptor.verbs.2.label>Оглушающая Сила</CW_Disruptor.verbs.2.label>
+  <CW_Disruptor.verbs.3.label>Не смертельный заряд</CW_Disruptor.verbs.3.label>
   <!-- Napalm Blaster -->
-  <Bullet_NapalmFlame.label>Ð¼Ð¾Ñ€Ðµ Ð¿Ð»Ð°Ð¼ÐµÐ½Ð¸</Bullet_NapalmFlame.label>
-  <Bullet_NapalmBlast.label>ÐºÐ¾Ð½Ñ†ÐµÐ½Ñ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð½Ð°Ð¿Ð°Ð»Ð¼</Bullet_NapalmBlast.label>
-  <Bullet_NapalmWave.label>ÐºÐ¾Ð½Ñ†ÐµÐ½Ñ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð½Ð°Ð¿Ð°Ð»Ð¼</Bullet_NapalmWave.label>
-  <CW_NapalmBlaster.label>Ð½Ð°Ð¿Ð°Ð»Ð¼Ð¾Ð²Ñ‹Ð¹ Ð±Ð»Ð°ÑÑ‚ÐµÑ€</CW_NapalmBlaster.label>
-  <CW_NapalmBlaster.description>Ð¢ÑÐ¶ÐµÐ»Ñ‹Ð¹ Ð¾Ð³Ð½ÐµÐ¼ÐµÑ‚ Ñ Ð½Ð°Ð¿Ð°Ð»Ð¼Ð¾Ð¼. Ð­Ñ‚Ð¾ Ð¼ÐµÑ…Ð°Ð½Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ Ð·Ð°Ð¶Ð¸Ð³Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð¾ Ð±Ñ‹Ð»Ð¾ Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½Ð¾, Ñ‡Ñ‚Ð¾Ð±Ñ‹ ÑÐ¾Ð·Ð´Ð°Ð½Ð½Ð¸Ñ Ð´Ð»Ð¸Ð½Ð½Ð¾Ð³Ð¾, ÑƒÐ¿Ñ€Ð°Ð²Ð»ÑÐµÐ¼Ð¾Ð³Ð¾ Ð¿Ð¾Ñ‚Ð¾ÐºÐ° Ð¶Ð¸Ð´ÐºÐ¾Ð³Ð¾ Ð¾Ð³Ð½Ñ.\n\nÐ£Ñ€Ð¾Ð²ÐµÐ½ÑŒ Ð½Ð°Ð³Ñ€ÐµÐ²Ð° Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ ÑƒÐ´Ð¾Ð±Ð½Ð¾ Ð¾Ñ‚Ñ€ÐµÐ³ÑƒÐ»Ð¸Ñ€Ð¾Ð²Ð°Ð½ Ð²ÑÑ‚Ñ€Ð¾ÐµÐ½Ð½Ñ‹Ð¼ ÐºÐ¾Ð½Ñ‚Ñ€Ð¾Ð»Ð»ÐµÑ€Ð¾Ð¼ Ð¿Ð¸Ñ€Ð¾Ð¼Ð°Ð½Ñ‚Ð¸Ð¸.</CW_NapalmBlaster.description>
-  <CW_NapalmBlaster.tools.0.label>Ð¿Ñ€Ð¸ÐºÐ»Ð°Ð´</CW_NapalmBlaster.tools.0.label>
-  <CW_NapalmBlaster.tools.1.label>ÑÑ‚Ð²Ð¾Ð»</CW_NapalmBlaster.tools.1.label>
-  <CW_NapalmBlaster.verbs.0.label>Ð¤Ð°Ñ€ÐµÐ½Ð³ÐµÐ¹Ñ‚</CW_NapalmBlaster.verbs.0.label>
-  <CW_NapalmBlaster.verbs.1.label>ÐÐ´ÑÐºÐ¸Ð¹</CW_NapalmBlaster.verbs.1.label>
-  <CW_NapalmBlaster.verbs.2.label>ÐŸÐµÐºÐ»Ð¾</CW_NapalmBlaster.verbs.2.label>
+  <Bullet_NapalmFlame.label>море пламени</Bullet_NapalmFlame.label>
+  <Bullet_NapalmBlast.label>концентрированный напалм</Bullet_NapalmBlast.label>
+  <Bullet_NapalmWave.label>концентрированный напалм</Bullet_NapalmWave.label>
+  <CW_NapalmBlaster.label>напалмовый бластер</CW_NapalmBlaster.label>
+  <CW_NapalmBlaster.description>Тяжелый огнемет с напалмом. Это механическое зажигательное устройство было разработано, чтобы созданния длинного, управляемого потока жидкого огня.\n\nУровень нагрева может быть удобно отрегулирован встроенным контроллером пиромантии.</CW_NapalmBlaster.description>
+  <CW_NapalmBlaster.tools.0.label>приклад</CW_NapalmBlaster.tools.0.label>
+  <CW_NapalmBlaster.tools.1.label>ствол</CW_NapalmBlaster.tools.1.label>
+  <CW_NapalmBlaster.verbs.0.label>Фаренгейт</CW_NapalmBlaster.verbs.0.label>
+  <CW_NapalmBlaster.verbs.1.label>Адский</CW_NapalmBlaster.verbs.1.label>
+  <CW_NapalmBlaster.verbs.2.label>Пекло</CW_NapalmBlaster.verbs.2.label>
   <!-- Dual Eraser -->
-  <Bullet_DualEraser.label>Ð´Ð²Ð¾Ð¹Ð½Ð°Ñ Ð¿ÑƒÐ»Ñ</Bullet_DualEraser.label>
-  <CW_DualEraser.label>Ð´Ð²Ð¾Ð¹Ð½Ð¾Ð¹ ÑÑ‚Ð¸Ñ€Ð°Ñ‚ÐµÐ»ÑŒ</CW_DualEraser.label>
-  <CW_DualEraser.description>ÐŸÐ°Ñ€Ð° ÑÐºÐ¾Ñ€Ð¾ÑÑ‚Ñ€ÐµÐ»ÑŒÐ½Ñ‹Ñ… Ð¿Ð¸ÑÑ‚Ð¾Ð»ÐµÑ‚Ð¾Ð²-Ð¿ÑƒÐ»ÐµÐ¼ÐµÑ‚Ð¾Ð² Ñ Ð¾Ð³Ñ€Ð¾Ð¼Ð½Ñ‹Ð¼Ð¸ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°Ð¼Ð¸ Ð´Ð»Ñ Ð´Ð²Ð¾Ð¹Ð½Ð¾Ð³Ð¾ Ð¾Ñ€ÑƒÐ¶Ð¸Ñ. ÐžÐ³Ñ€Ð¾Ð¼Ð½Ð°Ñ Ð¾Ð³Ð½ÐµÐ²Ð°Ñ Ð¼Ð¾Ñ‰ÑŒ, Ñ‚Ð°ÐºÐ°Ñ ÐºÐ°Ðº Ð¼ÑƒÐ»ÑŒÑ‚Ð¸ Ð²Ñ‹ÑÑ‚Ñ€ÐµÐ», Ð´Ð¾ÑÑ‚Ð¸Ð³Ð°ÐµÑ‚ÑÑ Ð·Ð° ÑÑ‡ÐµÑ‚ Ð½Ð¸Ð·ÐºÐ¾Ð¹ Ñ‚Ð¾Ñ‡Ð½Ð¾ÑÑ‚Ð¸. ÐœÐ¾Ð¶Ð½Ð¾ Ð½Ð°Ð¹Ñ‚Ð¸ Ð½Ð° Ð£Ñ€Ð±Ð°Ð½Ð¸ÑÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… Ð¼Ð¸Ñ€Ð°Ñ… Ñ Ð¿Ð¾Ð²Ñ‹ÑˆÐµÐ½Ð½Ð¾Ð¹ ÐºÑ€Ð¸Ð¼Ð¸Ð½Ð°Ð»ÑŒÐ½Ð¾Ð¹ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒÑŽ, Ð³Ð´Ðµ Ð¿Ñ€Ð¸ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚ ÑƒÐ·ÐºÐ¸Ðµ Ð¿ÐµÑ€ÐµÑƒÐ»ÐºÐ¸. ÐœÐ¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð½Ð° ÐºÐ¸Ð±ÐµÑ€Ð½ÐµÑ‚Ð¸ÐºÑƒ Ð´Ð»Ñ Ð±Ð¾Ð»ÐµÐµ Ð±Ñ‹ÑÑ‚Ñ€Ð¾Ð¹ Ð¿ÐµÑ€ÐµÐ·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð±Ð»Ð¸Ð·ÐºÐ¸Ñ… Ñ†ÐµÐ»ÐµÐ¹.\n\nÐ¡Ð´ÐµÐ»Ð°Ð½Ð¾ Ð´Ð»Ñ ÐÐºÐ¸Ð¼Ð±Ð¾.</CW_DualEraser.description>
-  <CW_DualEraser.tools.0.label>Ñ€ÑƒÐºÐ¾ÑÑ‚ÐºÐ°</CW_DualEraser.tools.0.label>
-  <CW_DualEraser.tools.1.label>Ð¡Ñ‚Ð²Ð¾Ð»</CW_DualEraser.tools.1.label>
-  <CW_DualEraser.verbs.0.label>ÐœÑƒÐ»ÑŒÑ‚Ð¸ Ð’Ñ‹ÑÑ‚Ñ€ÐµÐ»</CW_DualEraser.verbs.0.label>
-  <CW_DualEraser.verbs.1.label>Ð‘Ñ‹ÑÑ‚Ñ€Ñ‹Ð¹ Ð¾Ð³Ð¾Ð½ÑŒ</CW_DualEraser.verbs.1.label>
+  <Bullet_DualEraser.label>двойная пуля</Bullet_DualEraser.label>
+  <CW_DualEraser.label>двойной стиратель</CW_DualEraser.label>
+  <CW_DualEraser.description>Пара скорострельных пистолетов-пулеметов с огромными магазинами для двойного оружия. Огромная огневая мощь, такая как мульти выстрел, достигается за счет низкой точности. Можно найти на Урбанистических мирах с повышенной криминальной активностью, где присутствуют узкие переулки. Может быть установлен на кибернетику для более быстрой перезагрузки близких целей.\n\nСделано для Акимбо.</CW_DualEraser.description>
+  <CW_DualEraser.tools.0.label>рукоятка</CW_DualEraser.tools.0.label>
+  <CW_DualEraser.tools.1.label>Ствол</CW_DualEraser.tools.1.label>
+  <CW_DualEraser.verbs.0.label>Мульти Выстрел</CW_DualEraser.verbs.0.label>
+  <CW_DualEraser.verbs.1.label>Быстрый огонь</CW_DualEraser.verbs.1.label>
   <!-- Accelerator -->
-  <Bullet_Accelerator.label>ÑÐ¸Ð½Ð³ÑƒÐ»ÑÑ€Ð½Ð¾ÑÑ‚ÑŒ</Bullet_Accelerator.label>
-  <CW_Accelerator.label>Ð°ÐºÑÐµÐ»ÐµÑ€Ð°Ñ‚Ð¾Ñ€</CW_Accelerator.label>
-  <CW_Accelerator.description>Ð¢ÑÐ¶ÐµÐ»Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð° ÐºÐ¸Ð±ÐµÑ€Ð½ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¾Ð³Ð¾ Ð¾Ñ€ÑƒÐ¶Ð¸Ñ. Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ðµ ÐºÐ°Ñ‚ÑƒÑˆÐºÐ¸ ÑÑ‚Ð¾Ð³Ð¾ Ð¼Ð¾Ð½ÑÑ‚Ñ€ÑƒÐ¼Ð° Ð²ÐºÐ»ÑŽÑ‡Ð°ÑŽÑ‚ÑÑ Ð¸ Ð²Ñ‹ÐºÐ»ÑŽÑ‡Ð°ÑŽÑ‚ÑÑ Ð² Ñ‚Ð¾Ñ‡Ð½Ð¾ ÑÐ¸Ð½Ñ…Ñ€Ð¾Ð½Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ Ð¿Ð¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚Ð¸, Ñ‡Ñ‚Ð¾ Ð¿Ñ€Ð¸Ð²Ð¾Ð´Ð¸Ñ‚ Ðº Ð±Ñ‹ÑÑ‚Ñ€Ð¾Ð¼Ñƒ ÑƒÑÐºÐ¾Ñ€ÐµÐ½Ð¸ÑŽ Ð³Ð¸Ð±Ñ€Ð¸Ð´Ð½Ñ‹Ñ… ÑÐ½Ð°Ñ€ÑÐ´Ð¾Ð² Ð²Ð´Ð¾Ð»ÑŒ ÑÑ‚Ð²Ð¾Ð»Ð° Ñ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ Ð¼Ð°Ð³Ð½Ð¸Ñ‚Ð½Ñ‹Ñ… ÑÐ¸Ð». ÐœÐµÐ½ÑÐµÑ‚ Ð¼ÐµÑÑ‚Ð°Ð¼Ð¸ Ð±Ð¾ÐµÐ¿Ñ€Ð¸Ð¿Ð°ÑÑ‹ Ð¿Ñ€Ð¸ Ð¿ÐµÑ€ÐµÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ð¸.</CW_Accelerator.description>
-  <CW_Accelerator.tools.0.label>Ð¿Ñ€Ð¸ÐºÐ»Ð°Ð´</CW_Accelerator.tools.0.label>
-  <CW_Accelerator.tools.1.label>ÑÑ‚Ð²Ð¾Ð»</CW_Accelerator.tools.1.label>
-  <CW_Accelerator.verbs.0.label>Ð¡Ð¸Ð½Ð³ÑƒÐ»ÑÑ€Ð½Ð¾ÑÑ‚ÑŒ</CW_Accelerator.verbs.0.label>
-  <CW_Accelerator.verbs.1.label>Ð—Ð°Ñ€ÑÐ¶ÐµÐ½Ð½Ñ‹Ð¹</CW_Accelerator.verbs.1.label>
-  <CW_Accelerator.verbs.2.label>Ð”Ð²Ð¾Ð¹Ð½Ð°Ñ Ð’Ñ‹Ð´Ð°Ñ‡Ð°</CW_Accelerator.verbs.2.label>
+  <Bullet_Accelerator.label>сингулярность</Bullet_Accelerator.label>
+  <CW_Accelerator.label>акселератор</CW_Accelerator.label>
+  <CW_Accelerator.description>Тяжелая система кибернетического оружия. Внутренние катушки этого монструма включаются и выключаются в точно синхронизированной последовательности, что приводит к быстрому ускорению гибридных снарядов вдоль ствола с помощью магнитных сил. Меняет местами боеприпасы при переключении.</CW_Accelerator.description>
+  <CW_Accelerator.tools.0.label>приклад</CW_Accelerator.tools.0.label>
+  <CW_Accelerator.tools.1.label>ствол</CW_Accelerator.tools.1.label>
+  <CW_Accelerator.verbs.0.label>Сингулярность</CW_Accelerator.verbs.0.label>
+  <CW_Accelerator.verbs.1.label>Заряженный</CW_Accelerator.verbs.1.label>
+  <CW_Accelerator.verbs.2.label>Двойная Выдача</CW_Accelerator.verbs.2.label>
 </LanguageData>

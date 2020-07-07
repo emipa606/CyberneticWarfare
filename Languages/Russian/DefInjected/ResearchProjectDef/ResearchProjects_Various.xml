@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- Cyborg Ballistik -->
-  <CW_Ballistik.label>Ð‘Ð°Ð»Ð»Ð¸ÑÑ‚Ð¸ÐºÐ°</CW_Ballistik.label>
-  <CW_Ballistik.description>Ð Ð°ÑÐºÑ€Ð¾Ð¹Ñ‚Ðµ ÑÐ¸Ð»Ñƒ Ð¿Ñ€ÐµÐ²Ð¾ÑÑ…Ð¾Ð´ÑÑ‚Ð²Ð° Ð¾Ñ€ÑƒÐ¶ÐµÐ¹Ð½Ñ‹Ñ… ÑÐ¸ÑÑ‚ÐµÐ¼..</CW_Ballistik.description>
+  <CW_Ballistik.label>Баллистика</CW_Ballistik.label>
+  <CW_Ballistik.description>Раскройте силу превосходства оружейных систем..</CW_Ballistik.description>
   <!-- Shadowrunner Cyberpunks -->
-  <CW_CyberneticWarfare.label>ÐšÐ¸Ð±ÐµÑ€Ð½ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ Ð¿Ñ€Ð¸Ñ‘Ð¼Ñ‹ Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð²Ð¾Ð¹Ð½Ñ‹</CW_CyberneticWarfare.label>
-  <CW_CyberneticWarfare.description>ÐŸÐ¾Ð»ÑƒÑ‡Ð¸Ñ‚Ðµ Ð¿Ð¾Ð»Ð½Ñ‹Ð¹ ÐºÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒ Ð½Ð°Ð´ Ð²Ð°ÑˆÐ¸Ð¼Ð¸ Ð¾Ñ€ÑƒÐ¶ÐµÐ¹Ð½Ñ‹Ð¼Ð¸ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°Ð¼Ð¸. Ð¡Ñ‚Ð°Ð½ÑŒÑ‚Ðµ Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð¾Ð¹.</CW_CyberneticWarfare.description>
+  <CW_CyberneticWarfare.label>Кибернетическое приёмы ведения войны</CW_CyberneticWarfare.label>
+  <CW_CyberneticWarfare.description>Получите полный контроль над вашими оружейными системами. Станьте платформой.</CW_CyberneticWarfare.description>
   <!-- Universal Soldiers Space Marines -->
-  <CW_FrameworkWeaponry.label>ÐšÐ°Ñ€ÐºÐ°ÑÐ½Ð¾Ðµ Ð²Ð¾Ð¾Ñ€ÑƒÐ¶ÐµÐ½Ð¸Ðµ</CW_FrameworkWeaponry.label>
-  <CW_FrameworkWeaponry.description>ÐŸÑ€ÐµÐ´Ð¾ÑÑ‚Ð°Ð²Ð»ÑÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð±Ð°Ð·Ðµ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ñ ÑÐºÑÐºÐ»ÑŽÐ·Ð¸Ð²Ð½Ñ‹Ð¼ Ð²Ñ‹Ð±Ð¾Ñ€Ð¾Ð¼ Ð²Ð¾Ð¾Ñ€ÑƒÐ¶ÐµÐ½Ð¸Ñ.</CW_FrameworkWeaponry.description>
+  <CW_FrameworkWeaponry.label>Каркасное вооружение</CW_FrameworkWeaponry.label>
+  <CW_FrameworkWeaponry.description>Предоставляет доступ к базе данных с эксклюзивным выбором вооружения.</CW_FrameworkWeaponry.description>
 </LanguageData>
