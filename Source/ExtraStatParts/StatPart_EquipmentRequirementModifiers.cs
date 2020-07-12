@@ -18,6 +18,7 @@ namespace ExtraStatParts
 			string result;
 			if (flag)
 			{
+
 				result = TranslatorFormattedStringExtensions.Translate("ESP_StatsReport_EquipmentRequirementsNotMet", Translator.Translate(modExtension.requirementNotMetReasonKey)) + ": x" + statModifier.value.ToStringPercent();
 			}
 			else
