@@ -1,49 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Shocker -->
-
-  <CW_Shock.label>shock</CW_Shock.label>
-  <CW_Shock.deathMessage>{0} has been beaten to death.</CW_Shock.deathMessage>
-
-
+  <!--<CW_Shock.label>shock</CW_Shock.label>-->
+  <!--<CW_Shock.deathMessage>{0} has been beaten to death.</CW_Shock.deathMessage>-->
   <!-- Disruptor -->
-
-  <CW_ElectroBurn.label>electrocute</CW_ElectroBurn.label>
-  <CW_ElectroBurn.deathMessage>{0} has been electrocuted to death.</CW_ElectroBurn.deathMessage>
-
-  <CW_ElectroCharge.label>electrocute</CW_ElectroCharge.label>
-  <CW_ElectroCharge.deathMessage>{0} has been electrocuted to death.</CW_ElectroCharge.deathMessage>
-
-
+  <!--<CW_ElectroBurn.label>electrocute</CW_ElectroBurn.label>-->
+  <!--<CW_ElectroBurn.deathMessage>{0} has been electrocuted to death.</CW_ElectroBurn.deathMessage>-->
+  <!--<CW_ElectroCharge.label>electrocute</CW_ElectroCharge.label>-->
+  <!--<CW_ElectroCharge.deathMessage>{0} has been electrocuted to death.</CW_ElectroCharge.deathMessage>-->
   <!-- Havoc cannon -->
-
-  <CW_HavocBlaze.label>haboc blaze</CW_HavocBlaze.label>
-  <CW_HavocBlaze.deathMessage>{0} has burned to death in havoc.</CW_HavocBlaze.deathMessage>
-
-
+  <!--<CW_HavocBlaze.label>haboc blaze</CW_HavocBlaze.label>-->
+  <!--<CW_HavocBlaze.deathMessage>{0} has burned to death in havoc.</CW_HavocBlaze.deathMessage>-->
   <!-- Coil Gun -->
-
-  <CW_KineticEnergy.label>kinetic energy</CW_KineticEnergy.label>
-  <CW_KineticEnergy.deathMessage>{0} has been blown to tiny bits.</CW_KineticEnergy.deathMessage>
-
-  <CW_LongRodPenetrator.label>long-rod penetrator</CW_LongRodPenetrator.label>
-  <CW_LongRodPenetrator.deathMessage>{0} has been annihilated.</CW_LongRodPenetrator.deathMessage>
-
-
+  <!--<CW_KineticEnergy.label>kinetic energy</CW_KineticEnergy.label>-->
+  <!--<CW_KineticEnergy.deathMessage>{0} has been blown to tiny bits.</CW_KineticEnergy.deathMessage>-->
+  <!--<CW_LongRodPenetrator.label>long-rod penetrator</CW_LongRodPenetrator.label>-->
+  <!--<CW_LongRodPenetrator.deathMessage>{0} has been annihilated.</CW_LongRodPenetrator.deathMessage>-->
   <!-- Plasma Gun -->
-
-  <CW_Plasma.label>concentrated plasma</CW_Plasma.label>
-  <CW_Plasma.deathMessage>{0} has been melted.</CW_Plasma.deathMessage>
-
-
+  <!--<CW_Plasma.label>concentrated plasma</CW_Plasma.label>-->
+  <!--<CW_Plasma.deathMessage>{0} has been melted.</CW_Plasma.deathMessage>-->
   <!-- Energetic Laser -->
-
-  <CW_LaserImpact.label>Laser</CW_LaserImpact.label>
-  <CW_LaserImpact.deathMessage>{0} has been disintegrated.</CW_LaserImpact.deathMessage>
-
-  <CW_LaserHit.label>Skin Burn</CW_LaserHit.label>
-  <CW_LaserHit.deathMessage>{0} has been killed.</CW_LaserHit.deathMessage>
-
+  <!--<CW_LaserImpact.label>Laser</CW_LaserImpact.label>-->
+  <!--<CW_LaserImpact.deathMessage>{0} has been disintegrated.</CW_LaserImpact.deathMessage>-->
+  <!--<CW_LaserHit.label>Skin Burn</CW_LaserHit.label>-->
+  <!--<CW_LaserHit.deathMessage>{0} has been killed.</CW_LaserHit.deathMessage>-->
 
 </LanguageData>

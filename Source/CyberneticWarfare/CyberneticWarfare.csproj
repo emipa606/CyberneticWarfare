@@ -66,6 +66,7 @@
     <Compile Include="DamageWorker_ExtinguishNoCamShake.cs" />
     <Compile Include="DamageWorker_FlameNoCamShake.cs" />
     <Compile Include="HarmonyPatches.cs" />
+    <Compile Include="Logging.cs" />
     <Compile Include="Patch_CompEquippable.cs" />
     <Compile Include="Patch_DamageWorker_AddInjury.cs" />
     <Compile Include="Patch_Pawn.cs" />

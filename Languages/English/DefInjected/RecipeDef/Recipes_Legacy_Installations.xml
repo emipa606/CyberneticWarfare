@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Energy Fist -->
-
-  <ANN_InstallShocker.label>install shocker</ANN_InstallShocker.label>
-  <ANN_InstallShocker.description>Install a shock module.</ANN_InstallShocker.description>
-  <ANN_InstallShocker.jobString>Installing hand implant.</ANN_InstallShocker.jobString>
-
+  <!--<ANN_InstallShocker.label>install shocker</ANN_InstallShocker.label>-->
+  <!--<ANN_InstallShocker.description>Install a shock module.</ANN_InstallShocker.description>-->
+  <!--<ANN_InstallShocker.jobString>Installing hand implant.</ANN_InstallShocker.jobString>-->
 
 </LanguageData>
