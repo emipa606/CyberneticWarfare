@@ -17,7 +17,7 @@
       <ComponentIndustrial>5</ComponentIndustrial>
     </costList>
     <recipeMaker>
-      <researchPrerequisite>ANN_NeuralNetwork</researchPrerequisite>
+      <researchPrerequisite>Bionics</researchPrerequisite>
       <skillRequirements>
         <Crafting>14</Crafting>
       </skillRequirements>
