@@ -1,10 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Reflection;
-using HarmonyLib;
-using Verse;
-
-namespace CyberneticWarfare
+﻿namespace CyberneticWarfare
 {
     // Token: 0x02000007 RID: 7
     internal static class Logging
