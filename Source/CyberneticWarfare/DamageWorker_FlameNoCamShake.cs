@@ -39,7 +39,7 @@ namespace CyberneticWarfare
                 return damageResult;
             }
 
-            var deadPlant = (DeadPlant) GenSpawn.Spawn(ThingDefOf.BurnedTree, victim.Position, map);
+            var deadPlant = (DeadPlant)GenSpawn.Spawn(ThingDefOf.BurnedTree, victim.Position, map);
             deadPlant.Growth = plant.Growth;
 
             return damageResult;

@@ -1,5 +1,8 @@
 # Changelog for CyberneticWarfare
 
+1.0.9.0 - Weapons with fire-modes should now only have one weapon-gizmo visible instead of the amount of fire-modes
+
+
 1.0.8.0 - Mod updated for 1.3 and passed autotests
 
 

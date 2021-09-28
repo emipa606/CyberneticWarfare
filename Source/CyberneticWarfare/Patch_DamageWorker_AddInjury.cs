@@ -1,4 +1,5 @@
 ﻿using HarmonyLib;
+using JetBrains.Annotations;
 using Verse;
 
 namespace CyberneticWarfare
@@ -9,6 +10,7 @@ namespace CyberneticWarfare
         // Token: 0x02000014 RID: 20
         [HarmonyPatch(typeof(DamageWorker_AddInjury))]
         [HarmonyPatch("ApplyToPawn")]
+        [UsedImplicitly]
         private static class Patch_ApplyToPawn
         {
             // Token: 0x0600002C RID: 44 RVA: 0x00002AAC File Offset: 0x00000CAC

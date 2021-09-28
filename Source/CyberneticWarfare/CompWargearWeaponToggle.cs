@@ -16,7 +16,7 @@ namespace CyberneticWarfare
 
         // Token: 0x17000004 RID: 4
         // (get) Token: 0x0600000F RID: 15 RVA: 0x000023E8 File Offset: 0x000005E8
-        public new CompProperties_WargearWeaponToggle Props => (CompProperties_WargearWeaponToggle) props;
+        public new CompProperties_WargearWeaponToggle Props => (CompProperties_WargearWeaponToggle)props;
 
         // Token: 0x17000005 RID: 5
         // (get) Token: 0x06000010 RID: 16 RVA: 0x000023F5 File Offset: 0x000005F5

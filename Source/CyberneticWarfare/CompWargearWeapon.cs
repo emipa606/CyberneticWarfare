@@ -8,7 +8,7 @@ namespace CyberneticWarfare
     {
         // Token: 0x17000001 RID: 1
         // (get) Token: 0x06000002 RID: 2 RVA: 0x0000206A File Offset: 0x0000026A
-        public CompProperties_WargearWeapon Props => (CompProperties_WargearWeapon) props;
+        public CompProperties_WargearWeapon Props => (CompProperties_WargearWeapon)props;
 
         // Token: 0x17000002 RID: 2
         // (get) Token: 0x06000003 RID: 3 RVA: 0x00002078 File Offset: 0x00000278

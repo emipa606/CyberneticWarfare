@@ -488,7 +488,7 @@
       <li Class="CyberneticWarfare.VerbPropertiesCW">
         <label>Pulsefire</label>
         <verbClass>CyberneticWarfare.Verb_ShootCW</verbClass>
-        <hasStandardCommand>true</hasStandardCommand>
+        <hasStandardCommand>false</hasStandardCommand>
         <defaultProjectile>CW_Pulse</defaultProjectile>
         <warmupTime>2</warmupTime>
         <range>29.9</range>

@@ -138,7 +138,7 @@ namespace EQEnergyWeapons
             if (Props.TickOffsetSecond != 0)
             {
                 drawingIntensity = Props.DrawingOffsetThird + ((Props.DrawingOffsetFourth - Props.DrawingOffsetThird) *
-                                                               ((tickCounter - (float) Props.TickOffset) /
+                                                               ((tickCounter - (float)Props.TickOffset) /
                                                                 Props.TickOffsetSecond));
             }
         }
@@ -147,7 +147,7 @@ namespace EQEnergyWeapons
         protected void DetermineImpactExactPosition()
         {
             var vector = destination - origin;
-            var num = (int) vector.magnitude;
+            var num = (int)vector.magnitude;
             var vector2 = vector / vector.magnitude;
             var destination1 = origin;
             var vector3 = origin;
@@ -385,7 +385,7 @@ namespace EQEnergyWeapons
             }
 
             Rand.PushState();
-            var moteThrown = (MoteThrown) ThingMaker.MakeThing(ThingDef.Named("LaserImpactThing"));
+            var moteThrown = (MoteThrown)ThingMaker.MakeThing(ThingDef.Named("LaserImpactThing"));
             moteThrown.Scale = Rand.Range(1f, 1.2f);
             moteThrown.rotationRate = Rand.Range(-12f, 12f);
             moteThrown.exactPosition = loc;

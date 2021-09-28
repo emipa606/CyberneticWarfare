@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using HarmonyLib;
+using JetBrains.Annotations;
 using Verse;
 
 namespace CyberneticWarfare
@@ -11,42 +12,24 @@ namespace CyberneticWarfare
         // Token: 0x02000015 RID: 21
         [HarmonyPatch(typeof(Pawn))]
         [HarmonyPatch("GetGizmos")]
+        [UsedImplicitly]
         private static class Patch_GetGizmos
         {
             // Token: 0x0600002D RID: 45 RVA: 0x00002B0C File Offset: 0x00000D0C
             private static void Postfix(Pawn __instance, ref IEnumerable<Gizmo> __result)
             {
-                var equipment = new Pawn_EquipmentTracker(__instance);
-                bool b;
-                if (__instance.IsColonistPlayerControlled && __instance.Drafted)
-                {
-                    equipment = __instance.equipment;
-                    b = equipment != null;
-                }
-                else
-                {
-                    b = false;
-                }
-
-                if (!b)
+                if (!__instance.IsColonistPlayerControlled)
                 {
                     return;
                 }
 
-                var primary = equipment.Primary;
-                var comp = new CompWargearWeapon();
-                bool b1;
-                if (primary != null)
+                if (!__instance.Drafted)
                 {
-                    comp = primary.GetComp<CompWargearWeapon>();
-                    b1 = comp != null;
-                }
-                else
-                {
-                    b1 = false;
+                    return;
                 }
 
-                if (!b1)
+                var comp = __instance.equipment?.Primary?.GetComp<CompWargearWeapon>();
+                if (comp == null)
                 {
                     return;
                 }

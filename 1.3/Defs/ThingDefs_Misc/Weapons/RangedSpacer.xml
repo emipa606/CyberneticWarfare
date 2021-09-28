@@ -130,7 +130,7 @@
       <li Class="CyberneticWarfare.VerbPropertiesCW">
         <label>Ultra EMP</label>
         <verbClass>CyberneticWarfare.Verb_ShootCW</verbClass>
-        <hasStandardCommand>true</hasStandardCommand>
+        <hasStandardCommand>false</hasStandardCommand>
         <defaultProjectile>Bullet_UltraEMP</defaultProjectile>
         <warmupTime>0.5</warmupTime>
         <minRange>1.5</minRange>
@@ -144,7 +144,7 @@
       <li Class="CyberneticWarfare.VerbPropertiesCW">
         <label>Stunning Force</label>
         <verbClass>CyberneticWarfare.Verb_ShootCW</verbClass>
-        <hasStandardCommand>true</hasStandardCommand>
+        <hasStandardCommand>false</hasStandardCommand>
         <defaultProjectile>Bullet_StunningForce</defaultProjectile>
         <warmupTime>1.5</warmupTime>
         <minRange>1.5</minRange>
@@ -158,7 +158,7 @@
       <li Class="CyberneticWarfare.VerbPropertiesCW">
         <label>Non-Lethal Charge</label>
         <verbClass>CyberneticWarfare.Verb_ShootCW</verbClass>
-        <hasStandardCommand>true</hasStandardCommand>
+        <hasStandardCommand>false</hasStandardCommand>
         <defaultProjectile>Bullet_NonLethalCharge</defaultProjectile>
         <warmupTime>1.5</warmupTime>
         <minRange>1.5</minRange>
@@ -336,7 +336,7 @@
       <li Class="CyberneticWarfare.VerbPropertiesCW">
         <label>Infernal</label>
         <verbClass>CyberneticWarfare.Verb_ShootCW</verbClass>
-        <hasStandardCommand>true</hasStandardCommand>
+        <hasStandardCommand>false</hasStandardCommand>
         <defaultProjectile>Bullet_NapalmBlast</defaultProjectile>
         <warmupTime>2</warmupTime>
         <range>17.9</range>
@@ -355,7 +355,7 @@
         <label>Hellfire</label>
         <verbClass>CyberneticWarfare.Verb_ShootCW</verbClass>
         <rapidfire>true</rapidfire>
-        <hasStandardCommand>true</hasStandardCommand>
+        <hasStandardCommand>false</hasStandardCommand>
         <defaultProjectile>Bullet_NapalmWave</defaultProjectile>
         <warmupTime>1</warmupTime>
         <range>19.9</range>
@@ -481,7 +481,7 @@
         <label>Rapid Fire</label>
         <verbClass>CyberneticWarfare.Verb_ShootCW</verbClass>
         <rapidfire>true</rapidfire>
-        <hasStandardCommand>true</hasStandardCommand>
+        <hasStandardCommand>false</hasStandardCommand>
         <defaultProjectile>Bullet_DualEraser</defaultProjectile>
         <warmupTime>0.6</warmupTime>
         <range>19.9</range>
@@ -599,7 +599,7 @@
         <label>Charged</label>
         <verbClass>CyberneticWarfare.Verb_ShootCW</verbClass>
         <pelletCount>2</pelletCount>
-        <hasStandardCommand>true</hasStandardCommand>
+        <hasStandardCommand>false</hasStandardCommand>
         <defaultProjectile>Bullet_ChargeRifle</defaultProjectile>
         <!-- Bullet_Shotgun -->
         <warmupTime>2.5</warmupTime>
@@ -615,7 +615,7 @@
         <label>Double Time</label>
         <verbClass>CyberneticWarfare.Verb_ShootCW</verbClass>
         <rapidfire>true</rapidfire>
-        <hasStandardCommand>true</hasStandardCommand>
+        <hasStandardCommand>false</hasStandardCommand>
         <defaultProjectile>Bullet_HeavySMG</defaultProjectile>
         <warmupTime>1.5</warmupTime>
         <range>32.4</range>
