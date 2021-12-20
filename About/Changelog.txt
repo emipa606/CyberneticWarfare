@@ -1,5 +1,8 @@
 # Changelog for CyberneticWarfare
 
+1.0.10.0 - CE-patch is now included in the main CE-mod instead
+
+
 1.0.9.0 - Weapons with fire-modes should now only have one weapon-gizmo visible instead of the amount of fire-modes
 
 

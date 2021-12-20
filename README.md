@@ -5,6 +5,8 @@
 Update of Trunken and Luizis mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1811369911
 
+- CE-patch moved into the main CE-mod instead
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
