@@ -25,13 +25,24 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1811369911
 
 - CE-patch moved into the main CE-mod instead
 
+Regarding the weapons not recognized as hunting-weapons:
+To count as a hunting-weapon a weapon has to have a ranged attack, the projectile must cause damage and it must not be of an exploding type.
+All industrial weapons in this mod counts as hunting weapons.
+Of the spacer weapons the dual eraser and the accelerator has the above requirements.
+Of the ultra weapons the recon bolter and the coil gun works (the latter if put in annihilation mode).
+All other weapons use explosive type projectiles.
+
 [img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/CyberneticWarfare][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
 [img]https://i.imgur.com/Z4GOv8H.png[/img]
@@ -128,12 +139,12 @@ Shoot with high calibre cartridges or explosive shells. Take out important singl
 [code] - JecsTools
  - Combat Extended (CE)
  - Dual Wield
- - Proper Shotguns ([url=https://steamcommunity.com/workshop/filedetails/?id=1438488634]XND[/url])
- - Cybernetic Organism and Neural Network ([url=https://steamcommunity.com/sharedfiles/filedetails/?id=1767214408]CONN[/url])
+ - Proper Shotguns
+ - Cybernetic Organism and Neural Network
  - Adeptus Mechanicus
- - Vanilla Weapons Expanded ([url=https://steamcommunity.com/sharedfiles/filedetails/?id=1814383360]Link[/url])
- - Vanilla Apparel Expanded ([url=https://steamcommunity.com/sharedfiles/filedetails/?id=1814987817]Link[/url])
- - Vanilla Armors Expanded ([url=https://steamcommunity.com/sharedfiles/filedetails/?id=1814988282]Link[/url])
+ - Vanilla Weapons Expanded
+ - Vanilla Apparel Expanded
+ - Vanilla Armors Expanded
  - Android Tiers Arsenal (Upcoming)
  - Cybernetic Warfare and Special Weapons - load it here -
  - Expanded Prosthetics and Organ Engineering (EPOE)[/code]
