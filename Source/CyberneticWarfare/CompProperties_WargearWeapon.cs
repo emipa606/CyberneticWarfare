@@ -1,14 +1,11 @@
-﻿using Verse;
+using Verse;
 
-namespace CyberneticWarfare
+namespace CyberneticWarfare;
+
+public class CompProperties_WargearWeapon : CompProperties
 {
-    // Token: 0x02000002 RID: 2
-    public class CompProperties_WargearWeapon : CompProperties
+    public CompProperties_WargearWeapon()
     {
-        // Token: 0x06000001 RID: 1 RVA: 0x00002050 File Offset: 0x00000250
-        public CompProperties_WargearWeapon()
-        {
-            compClass = typeof(CompWargearWeapon);
-        }
+        compClass = typeof(CompWargearWeapon);
     }
 }

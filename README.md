@@ -7,6 +7,13 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1811369911
 
 - CE-patch moved into the main CE-mod instead
 
+Regarding the weapons not recognized as hunting-weapons:
+To count as a hunting-weapon a weapon has to have a ranged attack, the projectile must cause damage and it must not be of an exploding type.
+All industrial weapons in this mod counts as hunting weapons.
+Of the spacer weapons the dual eraser and the accelerator has the above requirements.
+Of the ultra weapons the recon bolter and the coil gun works (the latter if put in annihilation mode).
+All other weapons use explosive type projectiles.
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
@@ -128,12 +135,12 @@ Shoot with high calibre cartridges or explosive shells. Take out important singl
 [code] - JecsTools
  - Combat Extended (CE)
  - Dual Wield
- - Proper Shotguns (https://steamcommunity.com/workshop/filedetails/?id=1438488634]XND)
- - Cybernetic Organism and Neural Network (https://steamcommunity.com/sharedfiles/filedetails/?id=1767214408]CONN)
+ - Proper Shotguns
+ - Cybernetic Organism and Neural Network
  - Adeptus Mechanicus
- - Vanilla Weapons Expanded (https://steamcommunity.com/sharedfiles/filedetails/?id=1814383360]Link)
- - Vanilla Apparel Expanded (https://steamcommunity.com/sharedfiles/filedetails/?id=1814987817]Link)
- - Vanilla Armors Expanded (https://steamcommunity.com/sharedfiles/filedetails/?id=1814988282]Link)
+ - Vanilla Weapons Expanded
+ - Vanilla Apparel Expanded
+ - Vanilla Armors Expanded
  - Android Tiers Arsenal (Upcoming)
  - Cybernetic Warfare and Special Weapons - load it here -
  - Expanded Prosthetics and Organ Engineering (EPOE)[/code]
@@ -197,6 +204,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1880253632]![Image](https
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

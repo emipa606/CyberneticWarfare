@@ -1,5 +1,9 @@
 # Changelog for CyberneticWarfare
 
+1.4.1 - Mod updated for 1.4 and passed autotests.
+Used DeepL to update translations for Russian
+
+
 1.0.10.0 - CE-patch is now included in the main CE-mod instead
 
 
