@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- Disruptor -->
   <ThingDef ParentName="BaseBullet">
@@ -198,9 +198,6 @@
       </li>
     </tools>
     <comps>
-      <li>
-        <compClass>CompOversizedWeapon.CompOversizedWeapon</compClass>
-      </li>
       <li Class="CyberneticWarfare.CompProperties_WargearWeaponToggle">
       </li>
     </comps>
@@ -391,9 +388,6 @@
       </li>
     </tools>
     <comps>
-      <li>
-        <compClass>CompOversizedWeapon.CompOversizedWeapon</compClass>
-      </li>
       <li Class="CyberneticWarfare.CompProperties_WargearWeaponToggle">
       </li>
     </comps>
@@ -512,9 +506,6 @@
       </li>
     </tools>
     <comps>
-      <li>
-        <compClass>CompOversizedWeapon.CompOversizedWeapon</compClass>
-      </li>
       <li Class="CyberneticWarfare.CompProperties_WargearWeaponToggle">
       </li>
     </comps>
@@ -646,9 +637,6 @@
       </li>
     </tools>
     <comps>
-      <li>
-        <compClass>CompOversizedWeapon.CompOversizedWeapon</compClass>
-      </li>
       <li Class="CyberneticWarfare.CompProperties_WargearWeaponToggle">
       </li>
     </comps>

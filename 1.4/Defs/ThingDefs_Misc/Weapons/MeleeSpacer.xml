@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- Shocker -->
   <ThingDef ParentName="BodyPartBionicBase">
@@ -37,9 +37,6 @@
     <techHediffsTags>
       <li>AdvancedWeapon</li>
     </techHediffsTags>
-    <thingCategories Inherit="False">
-      <li>ANN_BodyPartsArtificial</li>
-    </thingCategories>
   </ThingDef>
   <!-- Power Fist -->
   <ThingDef ParentName="BaseMeleeWeapon_Blunt_Quality">
@@ -112,11 +109,6 @@
         <cooldownTime>2</cooldownTime>
       </li>
     </tools>
-    <comps>
-      <li>
-        <compClass>CompOversizedWeapon.CompOversizedWeapon</compClass>
-      </li>
-    </comps>
     <thingCategories Inherit="False">
       <li>CW_CyborgWeaponry</li>
     </thingCategories>
@@ -201,11 +193,6 @@
         <cooldownTime>0.25</cooldownTime>
       </li>
     </tools>
-    <comps>
-      <li>
-        <compClass>CompOversizedWeapon.CompOversizedWeapon</compClass>
-      </li>
-    </comps>
     <thingCategories Inherit="False">
       <li>CW_CyborgWeaponry</li>
     </thingCategories>
@@ -281,11 +268,6 @@
         <cooldownTime>1</cooldownTime>
       </li>
     </tools>
-    <comps>
-      <li>
-        <compClass>CompOversizedWeapon.CompOversizedWeapon</compClass>
-      </li>
-    </comps>
     <thingCategories Inherit="False">
       <li>CW_CyborgWeaponry</li>
     </thingCategories>
@@ -361,11 +343,6 @@
         <cooldownTime>1</cooldownTime>
       </li>
     </tools>
-    <comps>
-      <li>
-        <compClass>CompOversizedWeapon.CompOversizedWeapon</compClass>
-      </li>
-    </comps>
     <thingCategories Inherit="False">
       <li>CW_CyborgWeaponry</li>
     </thingCategories>
@@ -500,9 +477,6 @@
       </li>
     </verbs>
     <comps>
-      <li>
-        <compClass>CompOversizedWeapon.CompOversizedWeapon</compClass>
-      </li>
       <li Class="CyberneticWarfare.CompProperties_WargearWeaponToggle">
       </li>
     </comps>
