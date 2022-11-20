@@ -13,7 +13,6 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter>
-    <li>jecrell.jecstools</li>
     <li>CETeam.CombatExtended</li>
     <li>XeoNovaDan.ProperShotguns</li>
     <li>VanillaExpanded.VWE</li>
