@@ -1,5 +1,8 @@
 # Changelog for CyberneticWarfare
 
+1.4.3 - Added the power armors from Spartan Foundry and Rimsenal as recognized power armors (I think)
+
+
 1.4.2 - Rmoval of redundant CompOversizedWeapon as the base-game supports drawsize on weapons now..
 Used DeepL to update translations for ChineseSimplified, French, German
 
