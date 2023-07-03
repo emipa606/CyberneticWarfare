@@ -1,5 +1,8 @@
 # Changelog for CyberneticWarfare
 
+1.4.4 - Fixed the patch for CONN since they changed the defnames
+
+
 1.4.3 - Added the power armors from Spartan Foundry and Rimsenal as recognized power armors (I think)
 
 

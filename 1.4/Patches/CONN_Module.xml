@@ -156,11 +156,10 @@
                 <requireAnyOfTheseHediffs>
                   <li>BionicArm</li>
                   <li>ArchotechArm</li>
-                  <li>Trunken_hediff_PowerArms</li>
-                  <li>Trunken_hediff_EnergyCore</li>
-                  <li>Trunken_hediff_EnergyLink</li>
-                  <li>Trunken_hediff_Musclewire</li>
-                  <!-- <li>Trunken_hediff_CombatAI</li> -->
+                  <li>CONN_hediff_PowerArms</li>
+                  <li>CONN_hediff_EnergyCore</li>
+                  <li>CONN_hediff_EnergyLink</li>
+                  <li>CONN_hediff_Musclewire</li>
                 </requireAnyOfTheseHediffs>
                 <requireAnyOfTheseApparels>
                   <li>Apparel_PowerArmor</li>
