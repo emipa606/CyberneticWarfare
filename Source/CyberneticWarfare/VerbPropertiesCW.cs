@@ -5,9 +5,9 @@ namespace CyberneticWarfare;
 
 public class VerbPropertiesCW : VerbProperties
 {
-    public int pelletCount = 1;
+    public readonly int pelletCount = 1;
 
-    public bool rapidfire = false;
+    public readonly bool rapidfire = false;
 
     public List<ResearchProjectDef> researchPrerequisites;
 }

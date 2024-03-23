@@ -161,7 +161,7 @@ public class Projectile_BaseEnergyImpact : Projectile
 
                     var pawn = thing as Pawn;
                     var num2 = 0.45f;
-                    var downed = pawn != null && pawn.Downed;
+                    var downed = pawn is { Downed: true };
                     if (downed)
                     {
                         num2 *= 0.1f;
@@ -344,7 +344,7 @@ public class Projectile_BaseEnergyImpact : Projectile
         }
     }
 
-    public override void Draw()
+    protected override void DrawAt(Vector3 drawLoc, bool flip = false)
     {
         Comps_PostDraw();
         Graphics.DrawMesh(MeshPool.plane10, drawingMatrix,

@@ -19,7 +19,7 @@ public class DamageWorker_ExtinguishNoCamShake : DamageWorker
         else
         {
             base.Apply(dinfo, victim);
-            fire.fireSize -= dinfo.Amount * 0.01f;
+            fire.fireSize -= dinfo.Amount * DamageAmountToFireSizeRatio;
             if (fire.fireSize <= 0.1f)
             {
                 fire.Destroy();

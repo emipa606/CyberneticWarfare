@@ -4,9 +4,9 @@ namespace EQEnergyWeapons;
 
 public class CompProperties_DefinitionDMG : CompProperties
 {
-    public float chanceToProc = 0.1f;
+    public readonly float chanceToProc = 0.1f;
 
-    public int damageAmount = 10;
+    public readonly int damageAmount = 10;
 
     public string damageDef;
 }

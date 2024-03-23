@@ -6,6 +6,8 @@ namespace CyberneticWarfare;
 
 public class DamageWorker_FlameNoCamShake : DamageWorker_AddInjury
 {
+    private readonly ThingDef BurnedTree = ThingDef.Named("BurnedTree");
+
     public override DamageResult Apply(DamageInfo dinfo, Thing victim)
     {
         var pawn = victim as Pawn;
@@ -18,7 +20,7 @@ public class DamageWorker_FlameNoCamShake : DamageWorker_AddInjury
         var damageResult = base.Apply(dinfo, victim);
         if (!damageResult.deflected && !dinfo.InstantPermanentInjury)
         {
-            victim.TryAttachFire(Rand.Range(0.15f, 0.25f));
+            victim.TryAttachFire(Rand.Range(0.15f, 0.25f), victim);
         }
 
         if (!victim.Destroyed || map == null || pawn != null)
@@ -32,12 +34,12 @@ public class DamageWorker_FlameNoCamShake : DamageWorker_AddInjury
         }
 
         if (victim is not Plant plant || !victim.def.plant.IsTree || plant.LifeStage == PlantLifeStage.Sowing ||
-            victim.def == ThingDefOf.BurnedTree)
+            victim.def == BurnedTree)
         {
             return damageResult;
         }
 
-        var deadPlant = (DeadPlant)GenSpawn.Spawn(ThingDefOf.BurnedTree, victim.Position, map);
+        var deadPlant = (DeadPlant)GenSpawn.Spawn(BurnedTree, victim.Position, map);
         deadPlant.Growth = plant.Growth;
 
         return damageResult;
@@ -46,10 +48,10 @@ public class DamageWorker_FlameNoCamShake : DamageWorker_AddInjury
     public virtual void ExplosionAffectCell(Explosion explosion, IntVec3 c, List<Thing> damagedThings,
         bool canThrowMotes)
     {
-        base.ExplosionAffectCell(explosion, c, damagedThings, new List<Thing>(), canThrowMotes);
+        base.ExplosionAffectCell(explosion, c, damagedThings, [], canThrowMotes);
         if (def == DamageDefOf.Flame && Rand.Chance(FireUtility.ChanceToStartFireIn(c, explosion.Map)))
         {
-            FireUtility.TryStartFireIn(c, explosion.Map, Rand.Range(0.2f, 0.6f));
+            FireUtility.TryStartFireIn(c, explosion.Map, Rand.Range(0.2f, 0.6f), null);
         }
     }
 

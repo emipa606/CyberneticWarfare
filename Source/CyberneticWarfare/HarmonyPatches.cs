@@ -8,7 +8,6 @@ internal static class HarmonyPatches
 {
     static HarmonyPatches()
     {
-        var harmonyInstance = new Harmony("rimworld.ogliss.CyberneticWarfare.wargearweapon");
-        harmonyInstance.PatchAll();
+        new Harmony("rimworld.ogliss.CyberneticWarfare.wargearweapon").PatchAll();
     }
 }

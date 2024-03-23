@@ -5,9 +5,9 @@ namespace ExtraStatParts;
 
 public class EquipmentModifiersDef : Def
 {
-    public List<ThingDef> requireAnyOfTheseApparels = new List<ThingDef>();
+    public List<ThingDef> requireAnyOfTheseApparels = [];
 
-    public List<HediffDef> requireAnyOfTheseHediffs = new List<HediffDef>();
+    public List<HediffDef> requireAnyOfTheseHediffs = [];
 
-    public List<ThingDef> requireAnyOfTheseRaces = new List<ThingDef>();
+    public List<ThingDef> requireAnyOfTheseRaces = [];
 }

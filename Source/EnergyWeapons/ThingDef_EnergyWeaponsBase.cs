@@ -4,17 +4,17 @@ namespace EQEnergyWeapons;
 
 public class ThingDef_EnergyWeaponsBase : ThingDef
 {
-    public float DrawingOffset = 0f;
+    public readonly float DrawingOffset = 0f;
 
-    public float DrawingOffsetFourth = 0f;
+    public readonly float DrawingOffsetFourth = 0f;
 
-    public float DrawingOffsetSecond = 0f;
+    public readonly float DrawingOffsetSecond = 0f;
 
-    public float DrawingOffsetThird = 0f;
+    public readonly float DrawingOffsetThird = 0f;
 
-    public int TickOffset = 0;
+    public readonly int TickOffset = 0;
 
-    public int TickOffsetSecond = 0;
+    public readonly int TickOffsetSecond = 0;
 
     public string warmupGraphicPathSingle = null;
 }
