@@ -1,4 +1,3 @@
-using System.Linq;
 using HarmonyLib;
 using JetBrains.Annotations;
 using Verse;
@@ -15,9 +14,15 @@ internal static class Patch_CompEquippable
         private static void Postfix(CompEquippable __instance, ref Verb __result)
         {
             var toggleComp = __instance.parent.GetComp<CompWargearWeaponToggle>();
-            if (toggleComp != null)
+            if (toggleComp == null)
             {
-                __result = __instance.AllVerbs.First(v => v.verbProps == toggleComp.ActiveVerbProps);
+                return;
+            }
+
+            var selectedVerb = __instance.AllVerbs?.FirstOrDefault(v => v.verbProps == toggleComp.ActiveVerbProps);
+            if (selectedVerb != null)
+            {
+                __result = selectedVerb;
             }
         }
     }
