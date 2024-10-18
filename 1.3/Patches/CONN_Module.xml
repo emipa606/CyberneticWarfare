@@ -147,40 +147,38 @@
           </match>
         </li>
         <!-- Extra Stat Parts Assembly # Special Thanks to ChJess -->
-        <li Class="PatchOperationAdd">
+        <li Class="PatchOperationAddModExtension">
           <xpath>Defs/ThingDef[defName="CW_DualEraser" or defName="CW_GunBlade" or defName="CW_RiotBreaker" or defName="CW_BallisticShredder" or defName="CW_BallisticCombatGun" or defName="CW_BallisticEnforcer" or defName="CW_Disruptor" or defName="CW_PlasmaGun" or defName="CW_HavocLauncher" or defName="CW_CoilGun" or defName="CW_Accelerator" or defName="CW_ReconBolter"]</xpath>
           <value>
-            <modExtensions>
-              <li Class="ExtraStatParts.EquipmentRequirementModifiers">
-                <requirementNotMetReasonKey>ESP_MissingCyberware</requirementNotMetReasonKey>
-                <requireAnyOfTheseHediffs>
-                  <li>BionicArm</li>
-                  <li>ArchotechArm</li>
-                  <li>Trunken_hediff_PowerArms</li>
-                  <li>Trunken_hediff_EnergyCore</li>
-                  <li>Trunken_hediff_EnergyLink</li>
-                  <li>Trunken_hediff_Musclewire</li>
-                  <!-- <li>Trunken_hediff_CombatAI</li> -->
-                </requireAnyOfTheseHediffs>
-                <requireAnyOfTheseApparels>
-                  <li>Apparel_PowerArmor</li>
-                </requireAnyOfTheseApparels>
-                <requireAnyOfTheseRaces>
-                  <li>Android5Tier</li>
-                  <li>ChjBattleDroid</li>
-                  <li>KIJIN_Race</li>
-                </requireAnyOfTheseRaces>
-                <modifyTheseStats>
-                  <MoveSpeed>0.75</MoveSpeed>
-                  <RangedWeapon_DamageMultiplier>0.5</RangedWeapon_DamageMultiplier>
-                  <AimingDelayFactor>1.5</AimingDelayFactor>
-                  <RangedWeapon_Cooldown>2.0</RangedWeapon_Cooldown>
-                  <AccuracyShort>0.75</AccuracyShort>
-                  <AccuracyMedium>0.5</AccuracyMedium>
-                  <AccuracyLong>0.5</AccuracyLong>
-                </modifyTheseStats>
-              </li>
-            </modExtensions>
+            <li Class="ExtraStatParts.EquipmentRequirementModifiers">
+              <requirementNotMetReasonKey>ESP_MissingCyberware</requirementNotMetReasonKey>
+              <requireAnyOfTheseHediffs>
+                <li>BionicArm</li>
+                <li>ArchotechArm</li>
+                <li>Trunken_hediff_PowerArms</li>
+                <li>Trunken_hediff_EnergyCore</li>
+                <li>Trunken_hediff_EnergyLink</li>
+                <li>Trunken_hediff_Musclewire</li>
+                <!-- <li>Trunken_hediff_CombatAI</li> -->
+              </requireAnyOfTheseHediffs>
+              <requireAnyOfTheseApparels>
+                <li>Apparel_PowerArmor</li>
+              </requireAnyOfTheseApparels>
+              <requireAnyOfTheseRaces>
+                <li>Android5Tier</li>
+                <li>ChjBattleDroid</li>
+                <li>KIJIN_Race</li>
+              </requireAnyOfTheseRaces>
+              <modifyTheseStats>
+                <MoveSpeed>0.75</MoveSpeed>
+                <RangedWeapon_DamageMultiplier>0.5</RangedWeapon_DamageMultiplier>
+                <AimingDelayFactor>1.5</AimingDelayFactor>
+                <RangedWeapon_Cooldown>2.0</RangedWeapon_Cooldown>
+                <AccuracyShort>0.75</AccuracyShort>
+                <AccuracyMedium>0.5</AccuracyMedium>
+                <AccuracyLong>0.5</AccuracyLong>
+              </modifyTheseStats>
+            </li>
           </value>
         </li>
       </operations>

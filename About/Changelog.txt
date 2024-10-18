@@ -1,5 +1,8 @@
 # Changelog for CyberneticWarfare
 
+1.5.2 - Fixed a bad patch for adding mod extensions
+
+
 1.5.1 - Fixed minor incompatiblity with Vanilla Factions Expanded - Ancients
 
 
