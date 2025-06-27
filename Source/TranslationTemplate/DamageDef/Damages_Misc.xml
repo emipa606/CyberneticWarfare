@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: electrocute -->
+  <CW_ElectroBurn.label>electrocute</CW_ElectroBurn.label>
+  <!-- EN: {0} has been electrocuted to death. -->
+  <CW_ElectroBurn.deathMessage>{0} has been electrocuted to death.</CW_ElectroBurn.deathMessage>
+  <!-- EN: electrocute -->
+  <CW_ElectroCharge.label>electrocute</CW_ElectroCharge.label>
+  <!-- EN: {0} has been electrocuted to death. -->
+  <CW_ElectroCharge.deathMessage>{0} has been electrocuted to death.</CW_ElectroCharge.deathMessage>
+  <!-- EN: haboc blaze -->
+  <CW_HavocBlaze.label>haboc blaze</CW_HavocBlaze.label>
+  <!-- EN: {0} has burned to death in havoc. -->
+  <CW_HavocBlaze.deathMessage>{0} has burned to death in havoc.</CW_HavocBlaze.deathMessage>
+  <!-- EN: kinetic energy -->
+  <CW_KineticEnergy.label>kinetic energy</CW_KineticEnergy.label>
+  <!-- EN: {0} has been blown to tiny bits. -->
+  <CW_KineticEnergy.deathMessage>{0} has been blown to tiny bits.</CW_KineticEnergy.deathMessage>
+  <!-- EN: Skin Burn -->
+  <CW_LaserHit.label>Skin Burn</CW_LaserHit.label>
+  <!-- EN: {0} has burned to death. -->
+  <CW_LaserHit.deathMessage>{0} has burned to death.</CW_LaserHit.deathMessage>
+  <!-- EN: Laser -->
+  <CW_LaserImpact.label>Laser</CW_LaserImpact.label>
+  <!-- EN: {0} has been disintegrated. -->
+  <CW_LaserImpact.deathMessage>{0} has been disintegrated.</CW_LaserImpact.deathMessage>
+  <!-- EN: long-rod penetrator -->
+  <CW_LongRodPenetrator.label>long-rod penetrator</CW_LongRodPenetrator.label>
+  <!-- EN: {0} has been annihilated. -->
+  <CW_LongRodPenetrator.deathMessage>{0} has been annihilated.</CW_LongRodPenetrator.deathMessage>
+  <!-- EN: concentrated plasma -->
+  <CW_Plasma.label>concentrated plasma</CW_Plasma.label>
+  <!-- EN: {0} has been melted. -->
+  <CW_Plasma.deathMessage>{0} has been melted.</CW_Plasma.deathMessage>
+  <!-- EN: shock -->
+  <CW_Shock.label>shock</CW_Shock.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <CW_Shock.deathMessage>{0} has been beaten to death.</CW_Shock.deathMessage>
+</LanguageData>

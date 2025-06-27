@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: energy carrier -->
+  <Bullet_EnergyCarrier.label>energy carrier</Bullet_EnergyCarrier.label>
+  <!-- EN: ferromagnetic eraser -->
+  <Bullet_FerromagneticEraser.label>ferromagnetic eraser</Bullet_FerromagneticEraser.label>
+  <!-- EN: quantumbolt -->
+  <Bullet_HavocGrenadeLauncher.label>quantumbolt</Bullet_HavocGrenadeLauncher.label>
+  <!-- EN: Plasma Blast -->
+  <Bullet_PlasmaBlast.label>Plasma Blast</Bullet_PlasmaBlast.label>
+  <!-- EN: Plasma Brand -->
+  <Bullet_PlasmaBurst.label>Plasma Brand</Bullet_PlasmaBurst.label>
+  <!-- EN: Energy Beam -->
+  <Bullet_ReconBolter.label>Energy Beam</Bullet_ReconBolter.label>
+  <!-- EN: coil gun -->
+  <CW_CoilGun.label>coil gun</CW_CoilGun.label>
+  <!-- EN: A heavy projectile accelerator consisting of one coil used as electromagnet in the configuration of a linear motor that accelerates a ferromagnetic or conducting projectile to high velocity, resulting in uncomparable armor penetration. Designed to destroy light vehicles and aircraft with its superior firepower. -->
+  <CW_CoilGun.description>A heavy projectile accelerator consisting of one coil used as electromagnet in the configuration of a linear motor that accelerates a ferromagnetic or conducting projectile to high velocity, resulting in uncomparable armor penetration. Designed to destroy light vehicles and aircraft with its superior firepower.</CW_CoilGun.description>
+  <!-- EN: stock -->
+  <CW_CoilGun.tools.stock.label>stock</CW_CoilGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <CW_CoilGun.tools.barrel.label>barrel</CW_CoilGun.tools.barrel.label>
+  <!-- EN: Tank Destroyer -->
+  <CW_CoilGun.verbs.Tank_Destroyer.label>Tank Destroyer</CW_CoilGun.verbs.Tank_Destroyer.label>
+  <!-- EN: Annihilation -->
+  <CW_CoilGun.verbs.Annihilation.label>Annihilation</CW_CoilGun.verbs.Annihilation.label>
+  <!-- EN: havoc launcher -->
+  <CW_HavocLauncher.label>havoc launcher</CW_HavocLauncher.label>
+  <!-- EN: A wide-barreled multi launcher assembled by some cyberpunks for street wars against the concern. The blueprint quickly fell into the hand of some corporations, which ended up using the replika against their own inventors... on well-trained and paid security forces. The shells detonate on impact, leaving a small poison cloud behind known as the havoc. This heavy form of toxicity destroys biological organs in seconds.\n\nThe name is kept until now. -->
+  <CW_HavocLauncher.description>A wide-barreled multi launcher assembled by some cyberpunks for street wars against the concern. The blueprint quickly fell into the hand of some corporations, which ended up using the replika against their own inventors... on well-trained and paid security forces. The shells detonate on impact, leaving a small poison cloud behind known as the havoc. This heavy form of toxicity destroys biological organs in seconds.
+
+The name is kept until now.</CW_HavocLauncher.description>
+  <!-- EN: stock -->
+  <CW_HavocLauncher.tools.stock.label>stock</CW_HavocLauncher.tools.stock.label>
+  <!-- EN: barrel -->
+  <CW_HavocLauncher.tools.barrel.label>barrel</CW_HavocLauncher.tools.barrel.label>
+  <!-- EN: havoc launcher -->
+  <CW_HavocLauncher.verbs.Verb_Shoot.label>havoc launcher</CW_HavocLauncher.verbs.Verb_Shoot.label>
+  <!-- EN: Plasma gun -->
+  <CW_PlasmaGun.label>Plasma gun</CW_PlasmaGun.label>
+  <!-- EN: A heavy cybernetic weapon system. The coils of this monstrum are switched on and off in a precisely timed sequence, causing the micro explosion projectiles to be accelerated quickly along the barrel via magnetic forces. Designed to destroy light vehicles and aircraft with its superior firepower. -->
+  <CW_PlasmaGun.description>A heavy cybernetic weapon system. The coils of this monstrum are switched on and off in a precisely timed sequence, causing the micro explosion projectiles to be accelerated quickly along the barrel via magnetic forces. Designed to destroy light vehicles and aircraft with its superior firepower.</CW_PlasmaGun.description>
+  <!-- EN: stock -->
+  <CW_PlasmaGun.tools.stock.label>stock</CW_PlasmaGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <CW_PlasmaGun.tools.barrel.label>barrel</CW_PlasmaGun.tools.barrel.label>
+  <!-- EN: Melter -->
+  <CW_PlasmaGun.verbs.Melter.label>Melter</CW_PlasmaGun.verbs.Melter.label>
+  <!-- EN: Blaster -->
+  <CW_PlasmaGun.verbs.Blaster.label>Blaster</CW_PlasmaGun.verbs.Blaster.label>
+  <!-- EN: recon bolter -->
+  <CW_ReconBolter.label>recon bolter</CW_ReconBolter.label>
+  <!-- EN: A heavy energy bolter designed for cybernetic warfare. Comes with a sensoric target acquisition system and can be hooked up by controllers enhancing the users vision and accuracy. It has an exceptionally long range, the power to melt through heavily armored forces and vaporises flesh in a blink. -->
+  <CW_ReconBolter.description>A heavy energy bolter designed for cybernetic warfare. Comes with a sensoric target acquisition system and can be hooked up by controllers enhancing the users vision and accuracy. It has an exceptionally long range, the power to melt through heavily armored forces and vaporises flesh in a blink.</CW_ReconBolter.description>
+  <!-- EN: stock -->
+  <CW_ReconBolter.tools.stock.label>stock</CW_ReconBolter.tools.stock.label>
+  <!-- EN: barrel -->
+  <CW_ReconBolter.tools.barrel.label>barrel</CW_ReconBolter.tools.barrel.label>
+  <!-- EN: recon bolter -->
+  <CW_ReconBolter.verbs.Verb_Shoot.label>recon bolter</CW_ReconBolter.verbs.Verb_Shoot.label>
+</LanguageData>

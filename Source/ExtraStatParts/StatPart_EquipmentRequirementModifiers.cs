@@ -11,7 +11,7 @@ public class StatPart_EquipmentRequirementModifiers : StatPart
         Thing thing;
         EquipmentRequirementModifiers modExtension;
         string result;
-        if ((statModifier = GetStatModifier(req)) != null && (thing = req.Thing) != null &&
+        if ((statModifier = getStatModifier(req)) != null && (thing = req.Thing) != null &&
             (modExtension = thing.def.GetModExtension<EquipmentRequirementModifiers>()) != null)
         {
             result =
@@ -29,13 +29,13 @@ public class StatPart_EquipmentRequirementModifiers : StatPart
     public override void TransformValue(StatRequest req, ref float val)
     {
         StatModifier statModifier;
-        if ((statModifier = GetStatModifier(req)) != null)
+        if ((statModifier = getStatModifier(req)) != null)
         {
             val *= statModifier.value;
         }
     }
 
-    private StatModifier GetStatModifier(StatRequest req)
+    private StatModifier getStatModifier(StatRequest req)
     {
         EquipmentRequirementModifiers eqMods;
         Thing thing;

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Ballistik -->
+  <CW_Ballistik.label>Ballistik</CW_Ballistik.label>
+  <!-- EN: Unfold the power of superior weapon systems. -->
+  <CW_Ballistik.description>Unfold the power of superior weapon systems.</CW_Ballistik.description>
+  <!-- EN: Cybernetic Warfare -->
+  <CW_CyberneticWarfare.label>Cybernetic Warfare</CW_CyberneticWarfare.label>
+  <!-- EN: Achieve the full control over your weapon systems. Become the platform. -->
+  <CW_CyberneticWarfare.description>Achieve the full control over your weapon systems. Become the platform.</CW_CyberneticWarfare.description>
+  <!-- EN: Framework Weaponry -->
+  <CW_FrameworkWeaponry.label>Framework Weaponry</CW_FrameworkWeaponry.label>
+  <!-- EN: Provides access to a databank with an exclusive selection of weapons. -->
+  <CW_FrameworkWeaponry.description>Provides access to a databank with an exclusive selection of weapons.</CW_FrameworkWeaponry.description>
+</LanguageData>

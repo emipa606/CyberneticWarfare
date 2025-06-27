@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 4247400180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f641c1a4c8d41b74d582a1a73e0f1e1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f641c1a4c8d41b74d582a1a73e0f1e1b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/BallisticShredder.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/BallisticBurst.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/LaserBeam.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/Disruptor.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/NonLethalCharge.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/FerromagneticEraser/FerromagneticEraserA.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/NapalmWave.wav
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/NapalmBlast.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/DisruptorOrb/DisruptorOrbB.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/BlasterShot.wav
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/Electrification.wav
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/RailGun.wav
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/LoadingSystem.wav
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/ChainSaw.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponMelee/ChainSword.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/FerromagneticEraser/FerromagneticEraserB.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/FarExplosion.wav
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/NapalmFlame.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/FerromagneticEraser/FerromagneticEraserD.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/PlasmaBlast.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/DisruptorOrb/DisruptorOrbA.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/NapalmWave.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/ContinousSpark.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/BallisticCombatGun.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponMelee/EnergySword.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponMelee/PowerFist.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/BatteryRecharge.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/UltraEMP.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/EnergyBeam.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/BallisticEnforcer.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/DisruptorOrb/DisruptorOrbE.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/PlasmaBurst.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/NapalmFlame/NapalmFlameD.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/HavocLauncher.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/NapalmFlame/NapalmFlameC.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/HighPenetration.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/AnotherPlasma.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/FuturisticWeapon.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/DisruptorOrb/DisruptorOrbD.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/NapalmBlast.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/Whirlwind.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Motes/GlowWeapon.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Motes/SparksImpact.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/MissPunch.wav
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/PlasmaBoil.wav
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/GunFire.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/DisruptorOrb/DisruptorOrbC.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/NapalmFlame/NapalmFlameA.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/ArcadeLaser.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/NapalmBlaster.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/Electrocuted.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/CoilGun.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/PowerSpark.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/BladePulse.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/Accelerator.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/RiotBreaker.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/ReflectorSight.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/EnergyBeam.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/HavocFireball.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponMelee/EnergyClaw.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/StunningForce.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/DualEraser.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/PlasmaGun.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponMelee/GunBlade.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/DoubleDualErasers.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/PowerBeam.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/FerromagneticEraser/FerromagneticEraserC.png
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/GaussProjectile.wav
+- Assets/Data/Mlie.CyberneticWarfare/Sounds/Atmosphere/ElectricPulse.wav
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/WeaponRanged/ReconBolter.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/DisruptorOrb/DisruptorOrbF.png
+- Assets/Data/Mlie.CyberneticWarfare/Textures/Things/Projectile/NapalmFlame/NapalmFlameB.png
+Dependencies: []

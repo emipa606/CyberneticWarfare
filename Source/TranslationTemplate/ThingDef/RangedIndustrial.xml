@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: assault bullet -->
+  <Bullet_BallisticCombatGun.label>assault bullet</Bullet_BallisticCombatGun.label>
+  <!-- EN: enforcer bullet -->
+  <Bullet_BallisticEnforcer.label>enforcer bullet</Bullet_BallisticEnforcer.label>
+  <!-- EN: heavy shredder -->
+  <Bullet_BallisticShredder.label>heavy shredder</Bullet_BallisticShredder.label>
+  <!-- EN: ballistic combat gun -->
+  <CW_BallisticCombatGun.label>ballistic combat gun</CW_BallisticCombatGun.label>
+  <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat. Designed for large calibre cartridges. The case covers a complex burst engine inside. More power, faster handling, better accuracy. -->
+  <CW_BallisticCombatGun.description>A general-purpose gas-operated assault rifle for field or urban combat. Designed for large calibre cartridges. The case covers a complex burst engine inside. More power, faster handling, better accuracy.</CW_BallisticCombatGun.description>
+  <!-- EN: stock -->
+  <CW_BallisticCombatGun.tools.stock.label>stock</CW_BallisticCombatGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <CW_BallisticCombatGun.tools.barrel.label>barrel</CW_BallisticCombatGun.tools.barrel.label>
+  <!-- EN: ballistic combat gun -->
+  <CW_BallisticCombatGun.verbs.Verb_Shoot.label>ballistic combat gun</CW_BallisticCombatGun.verbs.Verb_Shoot.label>
+  <!-- EN: ballistic enforcer -->
+  <CW_BallisticEnforcer.label>ballistic enforcer</CW_BallisticEnforcer.label>
+  <!-- EN: An energy assisted assault rifle for field operations. This version is integrated with a computing system to increase its firepower and accuracy. The infused projectiles are fired in small bursts to prevent overheating. Usually fabricated by machines and hard to assemble for a human being. -->
+  <CW_BallisticEnforcer.description>An energy assisted assault rifle for field operations. This version is integrated with a computing system to increase its firepower and accuracy. The infused projectiles are fired in small bursts to prevent overheating. Usually fabricated by machines and hard to assemble for a human being.</CW_BallisticEnforcer.description>
+  <!-- EN: stock -->
+  <CW_BallisticEnforcer.tools.stock.label>stock</CW_BallisticEnforcer.tools.stock.label>
+  <!-- EN: barrel -->
+  <CW_BallisticEnforcer.tools.barrel.label>barrel</CW_BallisticEnforcer.tools.barrel.label>
+  <!-- EN: ballistic enforcer -->
+  <CW_BallisticEnforcer.verbs.Verb_Shoot.label>ballistic enforcer</CW_BallisticEnforcer.verbs.Verb_Shoot.label>
+  <!-- EN: ballistic shredder -->
+  <CW_BallisticShredder.label>ballistic shredder</CW_BallisticShredder.label>
+  <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. Comes with a larger magazine and lesser outbreaks due to an implemented stabilizer. -->
+  <CW_BallisticShredder.description>A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. Comes with a larger magazine and lesser outbreaks due to an implemented stabilizer.</CW_BallisticShredder.description>
+  <!-- EN: grip -->
+  <CW_BallisticShredder.tools.grip.label>grip</CW_BallisticShredder.tools.grip.label>
+  <!-- EN: barrel -->
+  <CW_BallisticShredder.tools.barrel.label>barrel</CW_BallisticShredder.tools.barrel.label>
+  <!-- EN: ballistic shredder -->
+  <CW_BallisticShredder.verbs.Verb_Shoot.label>ballistic shredder</CW_BallisticShredder.verbs.Verb_Shoot.label>
+  <!-- EN: riot breaker -->
+  <CW_RiotBreaker.label>riot breaker</CW_RiotBreaker.label>
+  <!-- EN: A charge rifle modified to be a magazine-fed fully automatic shotgun with recoil absorber. Packs a huge magazine and is extraordinarily powerful due to burst fire on short distance. Produced for maximum security Jailplanets with very dangerous subjects. -->
+  <CW_RiotBreaker.description>A charge rifle modified to be a magazine-fed fully automatic shotgun with recoil absorber. Packs a huge magazine and is extraordinarily powerful due to burst fire on short distance. Produced for maximum security Jailplanets with very dangerous subjects.</CW_RiotBreaker.description>
+  <!-- EN: stock -->
+  <CW_RiotBreaker.tools.stock.label>stock</CW_RiotBreaker.tools.stock.label>
+  <!-- EN: barrel -->
+  <CW_RiotBreaker.tools.barrel.label>barrel</CW_RiotBreaker.tools.barrel.label>
+  <!-- EN: riot breaker -->
+  <CW_RiotBreaker.verbs.Verb_Shoot.label>riot breaker</CW_RiotBreaker.verbs.Verb_Shoot.label>
+</LanguageData>

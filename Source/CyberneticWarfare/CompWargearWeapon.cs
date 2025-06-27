@@ -13,9 +13,9 @@ public class CompWargearWeapon : ThingComp
         {
             var parentHolder = ParentHolder;
             Pawn result;
-            if (parentHolder is Pawn_EquipmentTracker pawn_EquipmentTracker)
+            if (parentHolder is Pawn_EquipmentTracker pawnEquipmentTracker)
             {
-                result = pawn_EquipmentTracker.pawn;
+                result = pawnEquipmentTracker.pawn;
             }
             else
             {

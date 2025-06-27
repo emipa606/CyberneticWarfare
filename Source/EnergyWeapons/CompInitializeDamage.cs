@@ -6,9 +6,9 @@ public class CompInitializeDamage : ThingComp
 {
     public float chanceToProc;
 
-    public CompProperties_DefinitionDMG compProp;
+    private CompProperties_DefinitionDMG compProp;
 
-    public int count;
+    private int count;
 
     public int damageAmount;
 

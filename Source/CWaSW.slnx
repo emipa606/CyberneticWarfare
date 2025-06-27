@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="CyberneticWarfare/CyberneticWarfare.csproj" />
+  <Project Path="EnergyWeapons/EnergyWeapons.csproj" />
+  <Project Path="ExtraStatParts/ExtraStatParts.csproj" />
+</Solution>

@@ -5,7 +5,7 @@ namespace CyberneticWarfare;
 
 public class Verb_ShootCW : Verb_LaunchProjectile
 {
-    public VerbPropertiesCW VerbProps => verbProps as VerbPropertiesCW;
+    private VerbPropertiesCW VerbProps => verbProps as VerbPropertiesCW;
 
     protected override int ShotsPerBurst
     {

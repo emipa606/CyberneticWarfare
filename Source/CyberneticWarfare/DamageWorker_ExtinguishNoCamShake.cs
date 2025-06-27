@@ -11,24 +11,19 @@ public class DamageWorker_ExtinguishNoCamShake : DamageWorker
     public override DamageResult Apply(DamageInfo dinfo, Thing victim)
     {
         var damageResult = new DamageResult();
-        DamageResult result;
-        if (victim is not Fire fire || fire.Destroyed)
+        if (victim is not Fire { Destroyed: false } fire)
         {
-            result = damageResult;
-        }
-        else
-        {
-            base.Apply(dinfo, victim);
-            fire.fireSize -= dinfo.Amount * DamageAmountToFireSizeRatio;
-            if (fire.fireSize <= 0.1f)
-            {
-                fire.Destroy();
-            }
-
-            result = damageResult;
+            return damageResult;
         }
 
-        return result;
+        base.Apply(dinfo, victim);
+        fire.fireSize -= dinfo.Amount * DamageAmountToFireSizeRatio;
+        if (fire.fireSize <= 0.1f)
+        {
+            fire.Destroy();
+        }
+
+        return damageResult;
     }
 
     public override void ExplosionStart(Explosion explosion, List<IntVec3> cellsToAffect)

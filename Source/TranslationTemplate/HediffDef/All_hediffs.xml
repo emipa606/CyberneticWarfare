@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: electrocuted -->
+  <Trunken_hediff_Electrocuted.label>electrocuted</Trunken_hediff_Electrocuted.label>
+  <!-- EN: electrocuted -->
+  <Trunken_hediff_Electrocuted.description>electrocuted</Trunken_hediff_Electrocuted.description>
+  <!-- EN: an electrification -->
+  <Trunken_hediff_Electrocuted.labelNoun>an electrification</Trunken_hediff_Electrocuted.labelNoun>
+  <!-- EN: knock out -->
+  <Trunken_hediff_KnockOut.label>knock out</Trunken_hediff_KnockOut.label>
+  <!-- EN: knock out -->
+  <Trunken_hediff_KnockOut.description>knock out</Trunken_hediff_KnockOut.description>
+  <!-- EN: a loss of consciousness -->
+  <Trunken_hediff_KnockOut.labelNoun>a loss of consciousness</Trunken_hediff_KnockOut.labelNoun>
+  <!-- EN: minor -->
+  <Trunken_hediff_KnockOut.stages.minor.label>minor</Trunken_hediff_KnockOut.stages.minor.label>
+  <!-- EN: dizzy -->
+  <Trunken_hediff_KnockOut.stages.dizzy.label>dizzy</Trunken_hediff_KnockOut.stages.dizzy.label>
+  <!-- EN: dazed -->
+  <Trunken_hediff_KnockOut.stages.dazed.label>dazed</Trunken_hediff_KnockOut.stages.dazed.label>
+  <!-- EN: stars -->
+  <Trunken_hediff_KnockOut.stages.stars.label>stars</Trunken_hediff_KnockOut.stages.stars.label>
+  <!-- EN: unconsciousness -->
+  <Trunken_hediff_KnockOut.stages.unconsciousness.label>unconsciousness</Trunken_hediff_KnockOut.stages.unconsciousness.label>
+  <!-- EN: laser beam -->
+  <Trunken_hediff_LaserShot.label>laser beam</Trunken_hediff_LaserShot.label>
+  <!-- EN: laser beam -->
+  <Trunken_hediff_LaserShot.description>laser beam</Trunken_hediff_LaserShot.description>
+  <!-- EN: Permanent Laser Injury -->
+  <Trunken_hediff_LaserShot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>Permanent Laser Injury</Trunken_hediff_LaserShot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: old laser burn -->
+  <Trunken_hediff_LaserShot.comps.HediffComp_GetsPermanent.permanentLabel>old laser burn</Trunken_hediff_LaserShot.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: a laser wound -->
+  <Trunken_hediff_LaserShot.labelNoun>a laser wound</Trunken_hediff_LaserShot.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Trunken_hediff_LaserShot.labelNounPretty>{0} in the {1}</Trunken_hediff_LaserShot.labelNounPretty>
+  <!-- EN: plasma burn -->
+  <Trunken_hediff_PlasmaBurn.label>plasma burn</Trunken_hediff_PlasmaBurn.label>
+  <!-- EN: plasma burn -->
+  <Trunken_hediff_PlasmaBurn.description>plasma burn</Trunken_hediff_PlasmaBurn.description>
+  <!-- EN: plasma burn scar -->
+  <Trunken_hediff_PlasmaBurn.comps.HediffComp_GetsPermanent.permanentLabel>plasma burn scar</Trunken_hediff_PlasmaBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned away -->
+  <Trunken_hediff_PlasmaBurn.injuryProps.destroyedLabel>Burned away</Trunken_hediff_PlasmaBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned away -->
+  <Trunken_hediff_PlasmaBurn.injuryProps.destroyedOutLabel>Burned away</Trunken_hediff_PlasmaBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: a plasma wound -->
+  <Trunken_hediff_PlasmaBurn.labelNoun>a plasma wound</Trunken_hediff_PlasmaBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Trunken_hediff_PlasmaBurn.labelNounPretty>{0} in the {1}</Trunken_hediff_PlasmaBurn.labelNounPretty>
+  <!-- EN: Shocker -->
+  <Trunken_hediff_Shocker.label>Shocker</Trunken_hediff_Shocker.label>
+  <!-- EN: Shocker -->
+  <Trunken_hediff_Shocker.description>Shocker</Trunken_hediff_Shocker.description>
+  <!-- EN: Uppercut -->
+  <Trunken_hediff_Shocker.comps.HediffComp_VerbGiver.tools.Uppercut.label>Uppercut</Trunken_hediff_Shocker.comps.HediffComp_VerbGiver.tools.Uppercut.label>
+  <!-- EN: Shocker -->
+  <Trunken_hediff_Shocker.comps.HediffComp_VerbGiver.tools.Shocker.label>Shocker</Trunken_hediff_Shocker.comps.HediffComp_VerbGiver.tools.Shocker.label>
+  <!-- EN: Punch -->
+  <Trunken_hediff_Shocker.comps.HediffComp_VerbGiver.tools.Punch.label>Punch</Trunken_hediff_Shocker.comps.HediffComp_VerbGiver.tools.Punch.label>
+  <!-- EN: a shock module -->
+  <Trunken_hediff_Shocker.labelNoun>a shock module</Trunken_hediff_Shocker.labelNoun>
+</LanguageData>

@@ -4,7 +4,7 @@ namespace CyberneticWarfare;
 
 public class DamageDefExtension : DefModExtension
 {
-    public static readonly DamageDefExtension defaultValues = new DamageDefExtension();
+    public static readonly DamageDefExtension defaultValues = new();
 
     public float hitBuildingStunDurationFactor;
 

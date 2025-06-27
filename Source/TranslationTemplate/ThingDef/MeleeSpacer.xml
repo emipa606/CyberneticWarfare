@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: shocker -->
+  <ANN_Shocker.label>shocker</ANN_Shocker.label>
+  <!-- EN: A combat-oriented hand implant consisting of a round shocker inside the palm and a titanium metalplate around the knuckles. The electric pulse activates by angling up four fingers and pulling back the thumb. Obtains its power by the body system. -->
+  <ANN_Shocker.description>A combat-oriented hand implant consisting of a round shocker inside the palm and a titanium metalplate around the knuckles. The electric pulse activates by angling up four fingers and pulling back the thumb. Obtains its power by the body system.</ANN_Shocker.description>
+  <!-- EN: chain sword -->
+  <CW_ChainSword.label>chain sword</CW_ChainSword.label>
+  <!-- EN: A fierce power sword with a compound servo-motor in the handle. Its edge is surrounded by a chain saw mechaism with diamond sharp teeth. This prototype was carried by space marines to destroy tanks in one to one combat. It deals great damage, but is hard to manipulate. -->
+  <CW_ChainSword.description>A fierce power sword with a compound servo-motor in the handle. Its edge is surrounded by a chain saw mechaism with diamond sharp teeth. This prototype was carried by space marines to destroy tanks in one to one combat. It deals great damage, but is hard to manipulate.</CW_ChainSword.description>
+  <!-- EN: handle -->
+  <CW_ChainSword.tools.handle.label>handle</CW_ChainSword.tools.handle.label>
+  <!-- EN: point -->
+  <CW_ChainSword.tools.point.label>point</CW_ChainSword.tools.point.label>
+  <!-- EN: edge -->
+  <CW_ChainSword.tools.edge.label>edge</CW_ChainSword.tools.edge.label>
+  <!-- EN: energy claw -->
+  <CW_EnergyClaw.label>energy claw</CW_EnergyClaw.label>
+  <!-- EN: A massive mechanized glove wired to the forearm with a retractable claw extension. The weapon system controls an enhanced servo motor for hydraulic power in close combat. Capable of hitting multiple targets and going through metal like butter.\n\nEnergy Claws were favored by they oldest of the Space Marine Clans. The bravest among them even broke into Tanks or climbed onto Mechs to destroy them from within. -->
+  <CW_EnergyClaw.description>A massive mechanized glove wired to the forearm with a retractable claw extension. The weapon system controls an enhanced servo motor for hydraulic power in close combat. Capable of hitting multiple targets and going through metal like butter.
+
+Energy Claws were favored by they oldest of the Space Marine Clans. The bravest among them even broke into Tanks or climbed onto Mechs to destroy them from within.</CW_EnergyClaw.description>
+  <!-- EN: energy burst -->
+  <CW_EnergyClaw.tools.energy_burst.label>energy burst</CW_EnergyClaw.tools.energy_burst.label>
+  <!-- EN: blade -->
+  <CW_EnergyClaw.tools.blade.label>blade</CW_EnergyClaw.tools.blade.label>
+  <!-- EN: claw -->
+  <CW_EnergyClaw.tools.claw.label>claw</CW_EnergyClaw.tools.claw.label>
+  <!-- EN: sidestep stab -->
+  <CW_EnergyClaw.tools.sidestep_stab.label>sidestep stab</CW_EnergyClaw.tools.sidestep_stab.label>
+  <!-- EN: energy sword -->
+  <CW_EnergySword.label>energy sword</CW_EnergySword.label>
+  <!-- EN: A fluctuative power sword unloading while slashing and stabbing. The bundled energy can force the blade through the heaviest of platings. Made for the hands of Space Marines. -->
+  <CW_EnergySword.description>A fluctuative power sword unloading while slashing and stabbing. The bundled energy can force the blade through the heaviest of platings. Made for the hands of Space Marines.</CW_EnergySword.description>
+  <!-- EN: handle -->
+  <CW_EnergySword.tools.handle.label>handle</CW_EnergySword.tools.handle.label>
+  <!-- EN: point -->
+  <CW_EnergySword.tools.point.label>point</CW_EnergySword.tools.point.label>
+  <!-- EN: edge -->
+  <CW_EnergySword.tools.edge.label>edge</CW_EnergySword.tools.edge.label>
+  <!-- EN: gun blade -->
+  <CW_GunBlade.label>gun blade</CW_GunBlade.label>
+  <!-- EN: An ergonomic handgun with a comfortable blade extension. This attempt tries to counterattack the lack of close combat capacities of its weapon type, based on an old gun design by a well-known weaponsmith. -->
+  <CW_GunBlade.description>An ergonomic handgun with a comfortable blade extension. This attempt tries to counterattack the lack of close combat capacities of its weapon type, based on an old gun design by a well-known weaponsmith.</CW_GunBlade.description>
+  <!-- EN: handle -->
+  <CW_GunBlade.tools.handle.label>handle</CW_GunBlade.tools.handle.label>
+  <!-- EN: point -->
+  <CW_GunBlade.tools.point.label>point</CW_GunBlade.tools.point.label>
+  <!-- EN: blade -->
+  <CW_GunBlade.tools.blade.label>blade</CW_GunBlade.tools.blade.label>
+  <!-- EN: Gunslinger -->
+  <CW_GunBlade.verbs.Gunslinger.label>Gunslinger</CW_GunBlade.verbs.Gunslinger.label>
+  <!-- EN: Pulsefire -->
+  <CW_GunBlade.verbs.Pulsefire.label>Pulsefire</CW_GunBlade.verbs.Pulsefire.label>
+  <!-- EN: Pulse -->
+  <CW_Gunslinger.label>Pulse</CW_Gunslinger.label>
+  <!-- EN: power fist -->
+  <CW_PowerFist.label>power fist</CW_PowerFist.label>
+  <!-- EN: A massive mechanized glove wired to the forearm for hydraulic power bursts and punches. It is vicious in combat, and its powerful mini-servos can crush a skull like a natural hand crushes an egg. This prototype extension was created in a hidden hightech laboratorium and fabricated by their very own underground facilities. Though it was developed in imperial times, their independent state was preserved until now.\n\nStrengthens the soldiers ability to open doors and to create those passages, where they need to be. Grants pushback and pummel mechanics.\n\n<i>Only in death does duty end. Even a man who has nothing can still offer his life. As the Emperor protects, so must we. Peace is not in my vocabulary.</i> -->
+  <CW_PowerFist.description>A massive mechanized glove wired to the forearm for hydraulic power bursts and punches. It is vicious in combat, and its powerful mini-servos can crush a skull like a natural hand crushes an egg. This prototype extension was created in a hidden hightech laboratorium and fabricated by their very own underground facilities. Though it was developed in imperial times, their independent state was preserved until now.
+
+Strengthens the soldiers ability to open doors and to create those passages, where they need to be. Grants pushback and pummel mechanics.
+
+&lt;i>Only in death does duty end. Even a man who has nothing can still offer his life. As the Emperor protects, so must we. Peace is not in my vocabulary.&lt;/i></CW_PowerFist.description>
+  <!-- EN: Pummel -->
+  <CW_PowerFist.tools.Pummel.label>Pummel</CW_PowerFist.tools.Pummel.label>
+  <!-- EN: Crush -->
+  <CW_PowerFist.tools.Crush.label>Crush</CW_PowerFist.tools.Crush.label>
+  <!-- EN: Knockback -->
+  <CW_PowerFist.tools.Knockback.label>Knockback</CW_PowerFist.tools.Knockback.label>
+  <!-- EN: Pulse -->
+  <CW_Pulse.label>Pulse</CW_Pulse.label>
+</LanguageData>

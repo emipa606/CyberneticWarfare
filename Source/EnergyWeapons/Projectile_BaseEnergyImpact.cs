@@ -8,27 +8,27 @@ namespace EQEnergyWeapons;
 
 public class Projectile_BaseEnergyImpact : Projectile
 {
-    public CompInitializeDamage compED;
+    private CompInitializeDamage compED;
 
-    public float drawingIntensity;
+    private float drawingIntensity;
 
-    public Matrix4x4 drawingMatrix;
+    private Matrix4x4 drawingMatrix;
 
-    public Vector3 drawingPosition;
+    private Vector3 drawingPosition;
 
-    public Vector3 drawingScale;
+    private Vector3 drawingScale;
 
-    public Material drawingTexture;
+    private Material drawingTexture;
 
-    public Thing hitThing;
+    private Thing hitThing;
 
     public Material postFiringTexture;
 
     public Material preFiringTexture;
 
-    public int tickCounter;
+    private int tickCounter;
 
-    public ThingDef_EnergyWeaponsBase Props => def as ThingDef_EnergyWeaponsBase;
+    private ThingDef_EnergyWeaponsBase Props => def as ThingDef_EnergyWeaponsBase;
 
     public override void SpawnSetup(Map map, bool respawningAfterLoad)
     {
@@ -43,7 +43,7 @@ public class Projectile_BaseEnergyImpact : Projectile
         Scribe_Values.Look(ref tickCounter, "tickCounter");
     }
 
-    public override void Tick()
+    protected override void Tick()
     {
         if (tickCounter == 0)
         {
@@ -96,16 +96,16 @@ public class Projectile_BaseEnergyImpact : Projectile
         tickCounter++;
     }
 
-    public virtual void PerformPreFiringTreatment()
+    protected virtual void PerformPreFiringTreatment()
     {
-        DetermineImpactExactPosition();
+        determineImpactExactPosition();
         var vector = (destination - origin).normalized * 0.9f;
         drawingScale = new Vector3(1f, 1f, (destination - origin).magnitude - vector.magnitude);
         drawingPosition = origin + (vector / 2f) + ((destination - origin) / 2f) + (Vector3.up * def.Altitude);
         drawingMatrix.SetTRS(drawingPosition, ExactRotation, drawingScale);
     }
 
-    public virtual void GetPreFiringDrawingParameters()
+    protected virtual void GetPreFiringDrawingParameters()
     {
         if (Props.TickOffset != 0)
         {
@@ -114,7 +114,7 @@ public class Projectile_BaseEnergyImpact : Projectile
         }
     }
 
-    public virtual void GetPostFiringDrawingParameters()
+    protected virtual void GetPostFiringDrawingParameters()
     {
         if (Props.TickOffsetSecond != 0)
         {
@@ -124,7 +124,7 @@ public class Projectile_BaseEnergyImpact : Projectile
         }
     }
 
-    protected void DetermineImpactExactPosition()
+    private void determineImpactExactPosition()
     {
         var vector = destination - origin;
         var num = (int)vector.magnitude;
@@ -168,23 +168,17 @@ public class Projectile_BaseEnergyImpact : Projectile
                     }
 
                     var num3 = (ExactPosition - origin).MagnitudeHorizontal();
-                    if (num3 < 4f)
+                    switch (num3)
                     {
-                        num2 *= 0f;
-                    }
-                    else
-                    {
-                        if (num3 < 7f)
-                        {
+                        case < 4f:
+                            num2 *= 0f;
+                            break;
+                        case < 7f:
                             num2 *= 0.5f;
-                        }
-                        else
-                        {
-                            if (num3 < 10f)
-                            {
-                                num2 *= 0.75f;
-                            }
-                        }
+                            break;
+                        case < 10f:
+                            num2 *= 0.75f;
+                            break;
                     }
 
                     if (pawn == null)
@@ -209,12 +203,12 @@ public class Projectile_BaseEnergyImpact : Projectile
         }
     }
 
-    public virtual void Fire()
+    protected virtual void Fire()
     {
-        ApplyDamage(hitThing);
+        applyDamage(hitThing);
     }
 
-    protected void ApplyDamage(Thing thing)
+    private void applyDamage(Thing thing)
     {
         if (thing != null)
         {
@@ -226,7 +220,7 @@ public class Projectile_BaseEnergyImpact : Projectile
         }
     }
 
-    private void ImpactSomething()
+    protected override void ImpactSomething()
     {
         var flyOverhead = def.projectile.flyOverhead;
         if (flyOverhead)
@@ -321,12 +315,11 @@ public class Projectile_BaseEnergyImpact : Projectile
         base.Impact(thing, blockedByShield);
         if (thing != null)
         {
-            var damageAmount = def.projectile.GetDamageAmount(DamageAmount);
+            var damageAmount = def.projectile.GetDamageAmount(DamageAmount, launcher);
             var thingDef = equipmentDef;
-            var armorPenetration = def.projectile.GetArmorPenetration(ArmorPenetration);
-            var dinfo = new DamageInfo(def.projectile.damageDef, damageAmount, armorPenetration,
-                ExactRotation.eulerAngles.y, launcher, null, thingDef);
-            thing.TakeDamage(dinfo);
+            var armorPenetration = def.projectile.GetArmorPenetration(launcher);
+            thing.TakeDamage(new DamageInfo(def.projectile.damageDef, damageAmount, armorPenetration,
+                ExactRotation.eulerAngles.y, launcher, null, thingDef));
             if (thing is not Pawn pawn || pawn.Downed || !(Rand.Value < compED.chanceToProc))
             {
                 return;
@@ -340,7 +333,7 @@ public class Projectile_BaseEnergyImpact : Projectile
         {
             SoundDefOf.BulletImpact_Ground.PlayOneShot(new TargetInfo(Position, map));
             MoteMaker.MakeStaticMote(ExactPosition, map, ThingDefOf.LaserMoteWorker, 0.5f);
-            ThrowMicroSparksRed(ExactPosition, Map);
+            throwMicroSparksRed(ExactPosition, Map);
         }
     }
 
@@ -351,7 +344,7 @@ public class Projectile_BaseEnergyImpact : Projectile
             FadedMaterialPool.FadedVersionOf(drawingTexture, drawingIntensity), 0);
     }
 
-    public static void ThrowMicroSparksRed(Vector3 loc, Map map)
+    private static void throwMicroSparksRed(Vector3 loc, Map map)
     {
         if (!loc.ShouldSpawnMotesAt(map) || map.moteCounter.SaturatedLowPriority)
         {

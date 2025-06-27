@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: singularity -->
+  <Bullet_Accelerator.label>singularity</Bullet_Accelerator.label>
+  <!-- EN: electron orb -->
+  <Bullet_DisruptorOrb.label>electron orb</Bullet_DisruptorOrb.label>
+  <!-- EN: twin bullet -->
+  <Bullet_DualEraser.label>twin bullet</Bullet_DualEraser.label>
+  <!-- EN: concentrated napalm -->
+  <Bullet_NapalmBlast.label>concentrated napalm</Bullet_NapalmBlast.label>
+  <!-- EN: sea of flames -->
+  <Bullet_NapalmFlame.label>sea of flames</Bullet_NapalmFlame.label>
+  <!-- EN: concentrated napalm -->
+  <Bullet_NapalmWave.label>concentrated napalm</Bullet_NapalmWave.label>
+  <!-- EN: non lethal charge -->
+  <Bullet_NonLethalCharge.label>non lethal charge</Bullet_NonLethalCharge.label>
+  <!-- EN: stunning force -->
+  <Bullet_StunningForce.label>stunning force</Bullet_StunningForce.label>
+  <!-- EN: ultra EMP -->
+  <Bullet_UltraEMP.label>ultra EMP</Bullet_UltraEMP.label>
+  <!-- EN: accelerator -->
+  <CW_Accelerator.label>accelerator</CW_Accelerator.label>
+  <!-- EN: A heavy cybernetic weapon system. The inner coils of this monstrum are switched on and off in a precisely timed sequence, causing the hybrid projectiles to be accelerated quickly along the barrel via magnetic forces. Swaps between ammunition on toggle. -->
+  <CW_Accelerator.description>A heavy cybernetic weapon system. The inner coils of this monstrum are switched on and off in a precisely timed sequence, causing the hybrid projectiles to be accelerated quickly along the barrel via magnetic forces. Swaps between ammunition on toggle.</CW_Accelerator.description>
+  <!-- EN: stock -->
+  <CW_Accelerator.tools.stock.label>stock</CW_Accelerator.tools.stock.label>
+  <!-- EN: barrel -->
+  <CW_Accelerator.tools.barrel.label>barrel</CW_Accelerator.tools.barrel.label>
+  <!-- EN: Singularity -->
+  <CW_Accelerator.verbs.Singularity.label>Singularity</CW_Accelerator.verbs.Singularity.label>
+  <!-- EN: Charged -->
+  <CW_Accelerator.verbs.Charged.label>Charged</CW_Accelerator.verbs.Charged.label>
+  <!-- EN: Double Time -->
+  <CW_Accelerator.verbs.Double_Time.label>Double Time</CW_Accelerator.verbs.Double_Time.label>
+  <!-- EN: disruptor -->
+  <CW_Disruptor.label>disruptor</CW_Disruptor.label>
+  <!-- EN: A heavy handgun with an electron orb generator to disrupt single targets. The adjustable power system was originally made for non lethal strikes and knocks out any humanoid on a single hit. Standard overseer equipment on Jailplanets.\n\nThis upgraded version has access to four different fire modes. -->
+  <CW_Disruptor.description>A heavy handgun with an electron orb generator to disrupt single targets. The adjustable power system was originally made for non lethal strikes and knocks out any humanoid on a single hit. Standard overseer equipment on Jailplanets.
+
+This upgraded version has access to four different fire modes.</CW_Disruptor.description>
+  <!-- EN: grip -->
+  <CW_Disruptor.tools.grip.label>grip</CW_Disruptor.tools.grip.label>
+  <!-- EN: barrel -->
+  <CW_Disruptor.tools.barrel.label>barrel</CW_Disruptor.tools.barrel.label>
+  <!-- EN: Blade -->
+  <CW_Disruptor.tools.Blade.label>Blade</CW_Disruptor.tools.Blade.label>
+  <!-- EN: Electron Orb -->
+  <CW_Disruptor.verbs.Electron_Orb.label>Electron Orb</CW_Disruptor.verbs.Electron_Orb.label>
+  <!-- EN: Ultra EMP -->
+  <CW_Disruptor.verbs.Ultra_EMP.label>Ultra EMP</CW_Disruptor.verbs.Ultra_EMP.label>
+  <!-- EN: Stunning Force -->
+  <CW_Disruptor.verbs.Stunning_Force.label>Stunning Force</CW_Disruptor.verbs.Stunning_Force.label>
+  <!-- EN: Non-Lethal Charge -->
+  <CW_Disruptor.verbs.NonLethal_Charge.label>Non-Lethal Charge</CW_Disruptor.verbs.NonLethal_Charge.label>
+  <!-- EN: dual eraser -->
+  <CW_DualEraser.label>dual eraser</CW_DualEraser.label>
+  <!-- EN: A pair of rapid fire machine pistols in form of two compact twin erasers with huge magazines for dual wielding purposes. The immense firepower like its multi shot comes at the price of low precision. Found on high criminal Urbworlds, where narrow alleys are present. Can be mounted on cybernetics for faster reloads on close up targets.\n\nMade for Akimbo. -->
+  <CW_DualEraser.description>A pair of rapid fire machine pistols in form of two compact twin erasers with huge magazines for dual wielding purposes. The immense firepower like its multi shot comes at the price of low precision. Found on high criminal Urbworlds, where narrow alleys are present. Can be mounted on cybernetics for faster reloads on close up targets.
+
+Made for Akimbo.</CW_DualEraser.description>
+  <!-- EN: grip -->
+  <CW_DualEraser.tools.grip.label>grip</CW_DualEraser.tools.grip.label>
+  <!-- EN: barrel -->
+  <CW_DualEraser.tools.barrel.label>barrel</CW_DualEraser.tools.barrel.label>
+  <!-- EN: Multi Shot -->
+  <CW_DualEraser.verbs.Multi_Shot.label>Multi Shot</CW_DualEraser.verbs.Multi_Shot.label>
+  <!-- EN: Rapid Fire -->
+  <CW_DualEraser.verbs.Rapid_Fire.label>Rapid Fire</CW_DualEraser.verbs.Rapid_Fire.label>
+  <!-- EN: napalm blaster -->
+  <CW_NapalmBlaster.label>napalm blaster</CW_NapalmBlaster.label>
+  <!-- EN: A heavy flamethrower with a napalm tank attached to it. This mechanical incendiary device was developed to project a long, controllable stream of liquid fire.\n\nThe heat level can be conveniently adjusted by a builtin pyromancy controller. -->
+  <CW_NapalmBlaster.description>A heavy flamethrower with a napalm tank attached to it. This mechanical incendiary device was developed to project a long, controllable stream of liquid fire.
+
+The heat level can be conveniently adjusted by a builtin pyromancy controller.</CW_NapalmBlaster.description>
+  <!-- EN: stock -->
+  <CW_NapalmBlaster.tools.stock.label>stock</CW_NapalmBlaster.tools.stock.label>
+  <!-- EN: barrel -->
+  <CW_NapalmBlaster.tools.barrel.label>barrel</CW_NapalmBlaster.tools.barrel.label>
+  <!-- EN: Fahrenheit -->
+  <CW_NapalmBlaster.verbs.Fahrenheit.label>Fahrenheit</CW_NapalmBlaster.verbs.Fahrenheit.label>
+  <!-- EN: Infernal -->
+  <CW_NapalmBlaster.verbs.Infernal.label>Infernal</CW_NapalmBlaster.verbs.Infernal.label>
+  <!-- EN: Hellfire -->
+  <CW_NapalmBlaster.verbs.Hellfire.label>Hellfire</CW_NapalmBlaster.verbs.Hellfire.label>
+</LanguageData>

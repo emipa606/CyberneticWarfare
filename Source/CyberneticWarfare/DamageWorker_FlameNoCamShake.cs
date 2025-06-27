@@ -6,7 +6,7 @@ namespace CyberneticWarfare;
 
 public class DamageWorker_FlameNoCamShake : DamageWorker_AddInjury
 {
-    private readonly ThingDef BurnedTree = ThingDef.Named("BurnedTree");
+    private readonly ThingDef burnedTree = ThingDef.Named("BurnedTree");
 
     public override DamageResult Apply(DamageInfo dinfo, Thing victim)
     {
@@ -34,25 +34,15 @@ public class DamageWorker_FlameNoCamShake : DamageWorker_AddInjury
         }
 
         if (victim is not Plant plant || !victim.def.plant.IsTree || plant.LifeStage == PlantLifeStage.Sowing ||
-            victim.def == BurnedTree)
+            victim.def == burnedTree)
         {
             return damageResult;
         }
 
-        var deadPlant = (DeadPlant)GenSpawn.Spawn(BurnedTree, victim.Position, map);
+        var deadPlant = (DeadPlant)GenSpawn.Spawn(burnedTree, victim.Position, map);
         deadPlant.Growth = plant.Growth;
 
         return damageResult;
-    }
-
-    public virtual void ExplosionAffectCell(Explosion explosion, IntVec3 c, List<Thing> damagedThings,
-        bool canThrowMotes)
-    {
-        base.ExplosionAffectCell(explosion, c, damagedThings, [], canThrowMotes);
-        if (def == DamageDefOf.Flame && Rand.Chance(FireUtility.ChanceToStartFireIn(c, explosion.Map)))
-        {
-            FireUtility.TryStartFireIn(c, explosion.Map, Rand.Range(0.2f, 0.6f), null);
-        }
     }
 
     public override void ExplosionStart(Explosion explosion, List<IntVec3> cellsToAffect)
