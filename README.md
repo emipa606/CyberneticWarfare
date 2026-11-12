@@ -1,6 +1,6 @@
 # [Cybernetic Warfare and Special Weapons (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2155485488)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Trunken and Luizis mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1811369911
@@ -14,9 +14,9 @@ Of the spacer weapons the dual eraser and the accelerator has the above requirem
 Of the ultra weapons the recon bolter and the coil gun works (the latter if put in annihilation mode).
 All other weapons use explosive type projectiles.
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 **Version 1.0:** Release (Special Weapons)
 **Version 1.1:** Power Fist with Knockback, Pummel and Stun added (XND mechanics)
@@ -78,37 +78,37 @@ Shoot with high calibre cartridges or explosive shells. Take out important singl
 
 ![Image](https://i.ibb.co/CvptFjs/Template-Coil-Gun.png)
 
-![Image](https://i.imgur.com/icza2PP.png)
+![Image](https://img.litet.net/icza2PP.png)
 
-![Image](https://i.imgur.com/XRbYam7.png)
+![Image](https://img.litet.net/XRbYam7.png)
 
 ![Image](https://i.ibb.co/fFMjXST/Template-Ballistic-Shredder.png)
 
 ![Image](https://i.ibb.co/R6FXPs8/Template-Ballistic-Combat-Gun.png)
 
-![Image](https://i.imgur.com/igY05dc.png)
+![Image](https://img.litet.net/igY05dc.png)
 
-![Image](https://i.imgur.com/8Efudq7.png)
+![Image](https://img.litet.net/8Efudq7.png)
 
-![Image](https://i.imgur.com/Weyr9K7.png)
+![Image](https://img.litet.net/Weyr9K7.png)
 
-![Image](https://i.imgur.com/HGbyEAB.png)
+![Image](https://img.litet.net/HGbyEAB.png)
 
-![Image](https://i.imgur.com/MlSfA4D.png)
+![Image](https://img.litet.net/MlSfA4D.png)
 
 ![Image](https://i.ibb.co/DfLK8gt/Template-Disruptor.png)
 
-![Image](https://i.imgur.com/5znKJcI.png)
+![Image](https://img.litet.net/5znKJcI.png)
 
-![Image](https://i.imgur.com/EVNvcAa.png)
+![Image](https://img.litet.net/EVNvcAa.png)
 
-![Image](https://i.imgur.com/ghVJHCG.png)
+![Image](https://img.litet.net/ghVJHCG.png)
 
-![Image](https://i.imgur.com/YDuHpEF.png)
+![Image](https://img.litet.net/YDuHpEF.png)
 
-![Image](https://i.imgur.com/3xtWoiH.png)
+![Image](https://img.litet.net/3xtWoiH.png)
 
-![Image](https://i.imgur.com/d5DGKF9.png)
+![Image](https://img.litet.net/d5DGKF9.png)
 
 ![Image](https://i.ibb.co/9t9Zfm8/Clean-BAR6-Require.png)
 
@@ -144,10 +144,6 @@ Shoot with high calibre cartridges or explosive shells. Take out important singl
 
 Auto Patching: This mod has no dependencies and will work with a lot of components, if found. Just load it late, lean back and watch the magic.The first of three mods of a series, brought to you by the worlds greatest gunsmiths.
 
-# Lore (randomly chosen)
-
-*A wide-barreled multi launcher assembled by some cyberpunks for street wars against the concern. The blueprint quickly fell into the hand of some corporations, which ended up using the replika against their own inventors... on well-trained and paid security forces. The shells detonate on impact, leaving a small poison cloud behind known as the havoc. This heavy form of toxicity destroys biological organs in seconds. The name is kept until now.*
-
 # Credits
 
 Mental Support during CE Patching * ilikegoodfood
@@ -175,29 +171,28 @@ https://steamcommunity.com/workshop/filedetails/?id=1541438614 (Adeptus Mechanic
 https://steamcommunity.com/sharedfiles/filedetails/?id=1812364104 (Rename Your Weapons!)
 
 
-[![Image](https://i.imgur.com/bxmZ2LS.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=1814383360)
+[![Image](https://img.litet.net/bxmZ2LS.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=1814383360)
 
-[![Image](https://i.imgur.com/lEkKUY5.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=1814987817)
+[![Image](https://img.litet.net/lEkKUY5.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=1814987817)
 
-[![Image](https://i.imgur.com/b1olXUF.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=1814988282)
+[![Image](https://img.litet.net/b1olXUF.gif)](https://steamcommunity.com/sharedfiles/filedetails/?id=1814988282)
 
-[![Image](https://i.imgur.com/oGv7GUE.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=1845154007)
+[![Image](https://img.litet.net/oGv7GUE.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=1845154007)
 
-[![Image](https://i.imgur.com/6oej4ER.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=1880253632)
+[![Image](https://img.litet.net/6oej4ER.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=1880253632)
 
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/CyberneticWarfare?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2155485488) | tags:  weapons,  advanced,  upgrades
+[![Image](https://img.shields.io/github/v/release/emipa606/CyberneticWarfare?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2155485488) | ballistic weapons, energy weapons

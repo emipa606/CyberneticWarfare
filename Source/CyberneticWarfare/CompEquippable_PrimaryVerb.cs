@@ -6,7 +6,7 @@ namespace CyberneticWarfare;
 [HarmonyPatch(typeof(CompEquippable), nameof(CompEquippable.PrimaryVerb), MethodType.Getter)]
 public static class CompEquippable_PrimaryVerb
 {
-    private static void Postfix(CompEquippable __instance, ref Verb __result)
+    public static void Postfix(CompEquippable __instance, ref Verb __result)
     {
         var toggleComp = __instance.parent.GetComp<CompWargearWeaponToggle>();
         if (toggleComp == null)

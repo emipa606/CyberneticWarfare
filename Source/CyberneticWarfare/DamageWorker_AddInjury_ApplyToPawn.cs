@@ -6,7 +6,7 @@ namespace CyberneticWarfare;
 [HarmonyPatch(typeof(DamageWorker_AddInjury), "ApplyToPawn")]
 public static class DamageWorker_AddInjury_ApplyToPawn
 {
-    private static void Postfix(DamageInfo dinfo, Pawn pawn)
+    public static void Postfix(DamageInfo dinfo, Pawn pawn)
     {
         if (pawn.stances == null)
         {

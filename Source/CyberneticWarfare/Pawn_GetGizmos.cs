@@ -8,7 +8,7 @@ namespace CyberneticWarfare;
 [HarmonyPatch(typeof(Pawn), nameof(Pawn.GetGizmos))]
 public static class Pawn_GetGizmos
 {
-    private static void Postfix(Pawn __instance, ref IEnumerable<Gizmo> __result)
+    public static void Postfix(Pawn __instance, ref IEnumerable<Gizmo> __result)
     {
         if (!__instance.IsColonistPlayerControlled)
         {

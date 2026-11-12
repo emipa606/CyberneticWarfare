@@ -309,24 +309,24 @@ public class Projectile_BaseEnergyImpact : Projectile
         }
     }
 
-    protected override void Impact(Thing thing, bool blockedByShield = false)
+    protected override void Impact(Thing hitThing, bool blockedByShield = false)
     {
         var map = Map;
-        base.Impact(thing, blockedByShield);
-        if (thing != null)
+        base.Impact(hitThing, blockedByShield);
+        if (hitThing != null)
         {
             var damageAmount = def.projectile.GetDamageAmount(DamageAmount, launcher);
             var thingDef = equipmentDef;
             var armorPenetration = def.projectile.GetArmorPenetration(launcher);
-            thing.TakeDamage(new DamageInfo(def.projectile.damageDef, damageAmount, armorPenetration,
+            hitThing.TakeDamage(new DamageInfo(def.projectile.damageDef, damageAmount, armorPenetration,
                 ExactRotation.eulerAngles.y, launcher, null, thingDef));
-            if (thing is not Pawn pawn || pawn.Downed || !(Rand.Value < compED.chanceToProc))
+            if (hitThing is not Pawn pawn || pawn.Downed || !(Rand.Value < compED.chanceToProc))
             {
                 return;
             }
 
             FleckMaker.ThrowMicroSparks(destination, Map);
-            thing.TakeDamage(new DamageInfo(DefDatabase<DamageDef>.GetNamed(compED.damageDef),
+            hitThing.TakeDamage(new DamageInfo(DefDatabase<DamageDef>.GetNamed(compED.damageDef),
                 compED.damageAmount, armorPenetration, ExactRotation.eulerAngles.y, launcher));
         }
         else

@@ -14,10 +14,10 @@ public class CompInitializeDamage : ThingComp
 
     public string damageDef;
 
-    public override void Initialize(CompProperties vprops)
+    public override void Initialize(CompProperties props)
     {
-        base.Initialize(vprops);
-        compProp = vprops as CompProperties_DefinitionDMG;
+        base.Initialize(props);
+        compProp = props as CompProperties_DefinitionDMG;
         if (compProp != null)
         {
             damageDef = compProp.damageDef;

@@ -12,6 +12,7 @@
     <li>1.4</li>
     <li>1.5</li>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter>
@@ -21,7 +22,7 @@
     <li>kikohi.cybernetic</li>
     <li>com.RimWorld.Nales.ExpandedRims</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of Trunken and Luizis mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1811369911
 
@@ -34,20 +35,20 @@ Of the spacer weapons the dual eraser and the accelerator has the above requirem
 Of the ultra weapons the recon bolter and the coil gun works (the latter if put in annihilation mode).
 All other weapons use explosive type projectiles.
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[img]https://img.litet.net/logos/Notice.png[/img]
 
 [table]
 	[tr]
-		[td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
-		[td][url=https://github.com/emipa606/CyberneticWarfare][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+		[td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/CyberneticWarfare][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
-        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
-        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/RemoveMayWork.png[/img][/td]
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
 
 [b]Version 1.0:[/b] Release (Special Weapons)
 [b]Version 1.1:[/b] Power Fist with Knockback, Pummel and Stun added (XND mechanics)
@@ -105,22 +106,22 @@ This mod contains a wide spectrum of different weapon types with fantastic effec
 Shoot with high calibre cartridges or explosive shells. Take out important single targets with even more power and range. Toast your enemies with animated flames or bomb them back to the stone age with a havoc of toxicity. Blast them away with your lasers, plasma or particle mixtures at atomic-molecular level. Or just bring your jail under control with your new maximum security equipment. Dangerous suspects will think twice.
 
 [img]https://i.ibb.co/CvptFjs/Template-Coil-Gun.png[/img]
-[img]https://i.imgur.com/icza2PP.png[/img]
-[img]https://i.imgur.com/XRbYam7.png[/img]
+[img]https://img.litet.net/icza2PP.png[/img]
+[img]https://img.litet.net/XRbYam7.png[/img]
 [img]https://i.ibb.co/fFMjXST/Template-Ballistic-Shredder.png[/img]
 [img]https://i.ibb.co/R6FXPs8/Template-Ballistic-Combat-Gun.png[/img]
-[img]https://i.imgur.com/igY05dc.png[/img]
-[img]https://i.imgur.com/8Efudq7.png[/img]
-[img]https://i.imgur.com/Weyr9K7.png[/img]
-[img]https://i.imgur.com/HGbyEAB.png[/img]
-[img]https://i.imgur.com/MlSfA4D.png[/img]
+[img]https://img.litet.net/igY05dc.png[/img]
+[img]https://img.litet.net/8Efudq7.png[/img]
+[img]https://img.litet.net/Weyr9K7.png[/img]
+[img]https://img.litet.net/HGbyEAB.png[/img]
+[img]https://img.litet.net/MlSfA4D.png[/img]
 [img]https://i.ibb.co/DfLK8gt/Template-Disruptor.png[/img]
-[img]https://i.imgur.com/5znKJcI.png[/img]
-[img]https://i.imgur.com/EVNvcAa.png[/img]
-[img]https://i.imgur.com/ghVJHCG.png[/img]
-[img]https://i.imgur.com/YDuHpEF.png[/img]
-[img]https://i.imgur.com/3xtWoiH.png[/img]
-[img]https://i.imgur.com/d5DGKF9.png[/img]
+[img]https://img.litet.net/5znKJcI.png[/img]
+[img]https://img.litet.net/EVNvcAa.png[/img]
+[img]https://img.litet.net/ghVJHCG.png[/img]
+[img]https://img.litet.net/YDuHpEF.png[/img]
+[img]https://img.litet.net/3xtWoiH.png[/img]
+[img]https://img.litet.net/d5DGKF9.png[/img]
 
 [img]https://i.ibb.co/9t9Zfm8/Clean-BAR6-Require.png[/img]
  - Skill: 9-16 Crafting
@@ -153,9 +154,6 @@ Shoot with high calibre cartridges or explosive shells. Take out important singl
 
 Auto Patching: This mod has no dependencies and will work with a lot of components, if found. Just load it late, lean back and watch the magic.The first of three mods of a series, brought to you by the worlds greatest gunsmiths.
 
-[h1]Lore (randomly chosen)[/h1]
-[i]A wide-barreled multi launcher assembled by some cyberpunks for street wars against the concern. The blueprint quickly fell into the hand of some corporations, which ended up using the replika against their own inventors... on well-trained and paid security forces. The shells detonate on impact, leaving a small poison cloud behind known as the havoc. This heavy form of toxicity destroys biological organs in seconds. The name is kept until now.[/i]
-
 [h1]Credits[/h1]
 Mental Support during CE Patching * ilikegoodfood
 GFX Cyborg Weaponry * by Luizi and Oskar Potocki
@@ -180,28 +178,27 @@ https://steamcommunity.com/workshop/filedetails/?id=1541438614 (Adeptus Mechanic
 https://steamcommunity.com/sharedfiles/filedetails/?id=1812364104 (Rename Your Weapons!)
 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1814383360][img]https://i.imgur.com/bxmZ2LS.gif[/img][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1814383360][img]https://img.litet.net/bxmZ2LS.gif[/img][/url]
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1814987817][img]https://i.imgur.com/lEkKUY5.gif[/img][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1814987817][img]https://img.litet.net/lEkKUY5.gif[/img][/url]
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1814988282][img]https://i.imgur.com/b1olXUF.gif[/img][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1814988282][img]https://img.litet.net/b1olXUF.gif[/img][/url]
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1845154007][img]https://i.imgur.com/oGv7GUE.png[/img][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1845154007][img]https://img.litet.net/oGv7GUE.png[/img][/url]
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1880253632][img]https://i.imgur.com/6oej4ER.png[/img][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1880253632][img]https://img.litet.net/6oej4ER.png[/img][/url]
 
 
-[img]https://i.imgur.com/PwoNOj4.png[/img]
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
-[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2155485488][img]https://img.shields.io/github/v/release/emipa606/CyberneticWarfare?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  weapons,  advanced,  upgrades</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2155485488][img]https://img.shields.io/github/v/release/emipa606/CyberneticWarfare?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | ballistic weapons, energy weapons</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.7.0</modVersion>
 </ModMetaData>

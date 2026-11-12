@@ -1,3 +1,4 @@
+using System.Reflection;
 using HarmonyLib;
 using Verse;
 
@@ -8,6 +9,6 @@ internal static class HarmonyPatches
 {
     static HarmonyPatches()
     {
-        new Harmony("rimworld.ogliss.CyberneticWarfare.wargearweapon").PatchAll();
+        new Harmony("rimworld.ogliss.CyberneticWarfare.wargearweapon").PatchAll(Assembly.GetExecutingAssembly());
     }
 }

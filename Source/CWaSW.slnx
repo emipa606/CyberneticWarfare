@@ -5,4 +5,54 @@
   <Project Path="CyberneticWarfare/CyberneticWarfare.csproj" />
   <Project Path="EnergyWeapons/EnergyWeapons.csproj" />
   <Project Path="ExtraStatParts/ExtraStatParts.csproj" />
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingDefs_Misc/Weapons/">
+    <File Path="../1.7/Defs/ThingDefs_Misc/Weapons/MeleeSpacer.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Misc/Weapons/RangedIndustrial.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Misc/Weapons/RangedSpacer.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Misc/Weapons/RangedUltra.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/SoundDefs/">
+    <File Path="../1.7/Defs/SoundDefs/Flair.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Patches/">
+    <File Path="../1.7/Patches/AdeptusMechanicus.xml" />
+    <File Path="../1.7/Patches/CONN_Module.xml" />
+    <File Path="../1.7/Patches/DualWield_Support.xml" />
+    <File Path="../1.7/Patches/JecsTools_Magic.xml" />
+    <File Path="../1.7/Patches/ProperShotguns_Support.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/DamageDefs/">
+    <File Path="../1.7/Defs/DamageDefs/Damages_MeleeWeapon.xml" />
+    <File Path="../1.7/Defs/DamageDefs/Damages_Misc.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/Effects/">
+    <File Path="../1.7/Defs/Effects/Mote_Visual.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RecipeDefs/">
+    <File Path="../1.7/Defs/RecipeDefs/Recipes_Legacy_Installations.xml" />
+  </Folder>
+  <Folder Name="/XML/Languages/English/Keyed/">
+    <File Path="../Languages/English/Keyed/Keys.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingCategoryDefs/">
+    <File Path="../1.7/Defs/ThingCategoryDefs/ThingCategories.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ToolCapacityDefs/">
+    <File Path="../1.7/Defs/ToolCapacityDefs/ToolCapacity.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/Maneuvers/">
+    <File Path="../1.7/Defs/Maneuvers/Maneuvers.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/Hediffs/">
+    <File Path="../1.7/Defs/Hediffs/All_hediffs.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ResearchProjectDefs/">
+    <File Path="../1.7/Defs/ResearchProjectDefs/ResearchProjects_Various.xml" />
+  </Folder>
 </Solution>

@@ -75,30 +75,23 @@ public class StatPart_EquipmentRequirementModifiers : StatPart
                 }
                 else
                 {
-                    if (!eqMods.requireAnyOfTheseRaces.NullOrEmpty())
+                    if (!eqMods.requireAnyOfTheseRaces.NullOrEmpty() &&
+                        eqMods.requireAnyOfTheseRaces.Contains(pawn.def.defName))
                     {
-                        if (eqMods.requireAnyOfTheseRaces.Contains(pawn.def.defName))
-                        {
-                            return null;
-                        }
+                        return null;
                     }
 
-                    if (!eqMods.requireAnyOfTheseHediffs.NullOrEmpty())
+                    if (!eqMods.requireAnyOfTheseHediffs.NullOrEmpty() && pawn.health.hediffSet.hediffs.Any(hediff =>
+                            eqMods.requireAnyOfTheseHediffs.Contains(hediff.def.defName)))
                     {
-                        if (pawn.health.hediffSet.hediffs.Any(hediff =>
-                                eqMods.requireAnyOfTheseHediffs.Contains(hediff.def.defName)))
-                        {
-                            return null;
-                        }
+                        return null;
                     }
 
-                    if (!eqMods.requireAnyOfTheseApparels.NullOrEmpty() && pawn.apparel != null)
+                    if (!eqMods.requireAnyOfTheseApparels.NullOrEmpty() && pawn.apparel != null &&
+                        pawn.apparel.WornApparel.Any(apparel =>
+                            eqMods.requireAnyOfTheseApparels.Contains(apparel.def.defName)))
                     {
-                        if (pawn.apparel.WornApparel.Any(apparel =>
-                                eqMods.requireAnyOfTheseApparels.Contains(apparel.def.defName)))
-                        {
-                            return null;
-                        }
+                        return null;
                     }
 
                     result = statModifier;
